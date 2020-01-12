@@ -1,0 +1,109 @@
+{
+  "pokemon": [
+    {
+      "no": 1,
+      "name": "サルノリ",
+      "type1": "くさ",
+      "type2": "",
+      "encounter": "",
+      "rarity": "",
+      "evolution": "",
+      "comment": ""
+    },
+    {
+      "no": 2,
+      "name": "バチンキー",
+      "type1": "くさ",
+      "type2": "",
+      "encounter": "",
+      "rarity": "",
+      "evolution": "",
+      "comment": ""
+    },
+    {
+      "no": 3,
+      "name": "ゴリランダー",
+      "type1": "くさ",
+      "type2": "",
+      "encounter": "",
+      "rarity": "",
+      "evolution": "",
+      "comment": ""
+    },
+    {
+      "no": 36,
+      "name": "ハスボー",
+      "type1": "くさ",
+      "type2": "みず",
+      "how_to_get": [
+        {
+          "random": [
+            {
+              "encounter": "2番道路",
+              "rarity": "まぁまぁ",
+              "conditions": "高いレベルが出る陸で全ての天候"
+            },
+            {
+              "encounter": "うららか草原",
+              "rarity": "よく出る",
+              "conditions": "雨"
+            },
+            {
+              "encounter": "こもれび林",
+              "rarity": "まぁまぁ（晴れの時のみよく出る）",
+              "conditions": "晴れ、霧、雷雨、雨、晴れ＆曇り"
+            }
+          ],
+          "symbol": [
+            {
+              "encounter": "キバ湖・西",
+              "rarity": "よく出る",
+              "conditions": "晴れ＆曇り"
+            }
+          ]
+        }
+      ],
+      "level_up_skills": [
+        {
+          "level": 0,
+          "name": "なきごえ"
+        },
+        {
+          "level": 0,
+          "name": "おどろかす"
+        },
+        {
+          "level": 3,
+          "name": "すいとる"
+        },
+        {
+          "level": 6,
+          "name": "あとでここから"
+        }
+      ],
+      "evolution": "",
+      "comment": "シールドのみ"
+    },
+    {
+      "no": 37,
+      "name": "ハスブレロ",
+      "type1": "くさ",
+      "type2": "みず",
+      "encounter": "",
+      "rarity": "",
+      "evolution": "",
+      "comment": ""
+    },
+    {
+      "no": 38,
+      "name": "ルンパッパ",
+      "type1": "くさ",
+      "type2": "",
+      "encounter": "",
+      "rarity": "",
+      "evolution": "",
+      "comment": ""
+    }
+  ],
+  "comment": "noはガラル地方のすべてのポケモンを記載したら消す。配列の番数でnoを決定。"
+}

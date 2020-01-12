@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "name": "ダーテング",
+      "HP": 90,
+      "attack": 100,
+      "defense": 60,
+      "special_attack": 90,
+      "special_defense": 60,
+      "speed": 80,
+      "max": ""
+    },
+    {
+      "name": "アマージョ",
+      "HP": 72,
+      "attack": 120,
+      "defense": 98,
+      "special_attack": 50,
+      "special_defense": 98,
+      "speed": 72,
+      "max": ""
+    },
+    {
+      "name": "キレイハナ",
+      "HP": 75,
+      "attack": 80,
+      "defense": 95,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 50,
+      "max": ""
+    },
+    {
+      "name": "ロズレイド",
+      "HP": 60,
+      "attack": 70,
+      "defense": 65,
+      "special_attack": 125,
+      "special_defense": 105,
+      "speed": 90,
+      "max": "special_attack"
+    },
+    {
+      "name": "ユキノオー",
+      "HP": 90,
+      "attack": 92,
+      "defense": 75,
+      "special_attack": 92,
+      "special_defense": 85,
+      "speed": 60,
+      "max": ""
+    },
+    {
+      "name": "ワタシラガ",
+      "HP": 60,
+      "attack": 50,
+      "defense": 90,
+      "special_attack": 80,
+      "special_defense": 120,
+      "speed": 60,
+      "max": "special_defense"
+    },
+    {
+      "name": "チェリム",
+      "HP": 70,
+      "attack": 60,
+      "defense": 70,
+      "special_attack": 87,
+      "special_defense": 78,
+      "speed": 85,
+      "max": ""
+    },
+    {
+      "name": "リーフィア",
+      "HP": 65,
+      "attack": 110,
+      "defense": 130,
+      "special_attack": 60,
+      "special_defense": 65,
+      "speed": 95,
+      "max": ""
+    },
+    {
+      "name": "タルップル",
+      "HP": 110,
+      "attack": 85,
+      "defense": 80,
+      "special_attack": 100,
+      "special_defense": 80,
+      "speed": 30,
+      "max": "HP"
+    },
+    {
+      "name": "マラカッチ",
+      "HP": 75,
+      "attack": 86,
+      "defense": 67,
+      "special_attack": 106,
+      "special_defense": 67,
+      "speed": 60,
+      "max": ""
+    },
+    {
+      "name": "オーロット",
+      "HP": 85,
+      "attack": 110,
+      "defense": 76,
+      "special_attack": 65,
+      "special_defense": 82,
+      "speed": 56,
+      "max": ""
+    },
+    {
+      "name": "マシェード",
+      "HP": 60,
+      "attack": 45,
+      "defense": 80,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 30,
+      "max": ""
+    },
+    {
+      "name": "ダダリン",
+      "HP": 70,
+      "attack": 131,
+      "defense": 100,
+      "special_attack": 86,
+      "special_defense": 90,
+      "speed": 40,
+      "max": "attack"
+    },
+    {
+      "name": "ルンパッパ",
+      "HP": 80,
+      "attack": 70,
+      "defense": 70,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 70,
+      "max": ""
+    },
+    {
+      "name": "ラフレシア",
+      "HP": 75,
+      "attack": 80,
+      "defense": 85,
+      "special_attack": 110,
+      "special_defense": 90,
+      "speed": 50,
+      "max": ""
+    },
+    {
+      "name": "ナットレイ",
+      "HP": 75,
+      "attack": 94,
+      "defense": 131,
+      "special_attack": 54,
+      "special_defense": 115,
+      "speed": 20,
+      "max": "defense"
+    },
+    {
+      "name": "パンプジン",
+      "HP": 65,
+      "attack": 90,
+      "defense": 122,
+      "special_attack": 58,
+      "special_defense": 75,
+      "speed": 84,
+      "max": ""
+    },
+    {
+      "name": "アップリュー",
+      "HP": 70,
+      "attack": 110,
+      "defense": 80,
+      "special_attack": 95,
+      "special_defense": 60,
+      "speed": 70,
+      "max": ""
+    },
+    {
+      "name": "エルフーン",
+      "HP": 60,
+      "attack": 67,
+      "defense": 85,
+      "special_attack": 77,
+      "special_defense": 75,
+      "speed": 116,
+      "max": "speed"
+    },
+    {
+      "name": "ロトム",
+      "HP": 50,
+      "attack": 50,
+      "defense": 77,
+      "special_attack": 95,
+      "special_defense": 77,
+      "speed": 91,
+      "max": ""
+    }
+  ]
+}
