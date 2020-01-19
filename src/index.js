@@ -6,6 +6,7 @@ import * as serviceWorker from './serviceWorker';
 import { Route, BrowserRouter as Router, Link, Switch } from 'react-router-dom';
 import Species from './Species';
 import LeafPokemon from './LeafPokemon';
+import Visualize from './Visualize';
 
 const routing = (
   <Router>
@@ -14,6 +15,7 @@ const routing = (
         <Route exact path="/" component={App} />
         <Route path="/species" component={Species} />
         <Route path="/leaf-pokemon" component={LeafPokemon} />
+        {/* <Route path="/visualize" component={Visualize} /> */}
       </Switch>
 
       <hr />
@@ -25,6 +27,10 @@ const routing = (
       <p>
         <Link to="/species">ポケモンのいろいろなデータ</Link>
       </p>
+
+      {/* <p>
+        <Link to="/visualize">グラフ見えるよ</Link>
+      </p> */}
 
       <p>
         <Link to="/leaf-pokemon">くさ縛りでの対策</Link>

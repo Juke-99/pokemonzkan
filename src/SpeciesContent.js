@@ -65,7 +65,7 @@ class SpeciesContent extends Component {
 
         <tbody ref={e => this.tbodyRef = e}>
           {
-           this.props.species.data.map((content, i)=> {
+           this.props.species.data.map((content, i) => {
             switch(content.max) {
               case "HP":
                 return (
