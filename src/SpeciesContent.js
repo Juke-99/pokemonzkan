@@ -66,92 +66,24 @@ class SpeciesContent extends Component {
         <tbody ref={e => this.tbodyRef = e}>
           {
            this.props.species.data.map((content, i) => {
-            switch(content.max) {
-              case "HP":
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td style={maxHPBackgroundColor}>{content.HP}</td>
-                    <td>{content.attack}</td>
-                    <td>{content.defense}</td>
-                    <td>{content.special_attack}</td>
-                    <td>{content.special_defense}</td>
-                    <td>{content.speed}</td>
-                  </tr>
-                );
-              case "attack":
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td>{content.HP}</td>
-                    <td style={maxAttackBackgroundColor}>{content.attack}</td>
-                    <td>{content.defense}</td>
-                    <td>{content.special_attack}</td>
-                    <td>{content.special_defense}</td>
-                    <td>{content.speed}</td>
-                  </tr>
-                );
-              case "defense":
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td>{content.HP}</td>
-                    <td>{content.attack}</td>
-                    <td style={maxDefenseBackgroundColor}>{content.defense}</td>
-                    <td>{content.special_attack}</td>
-                    <td>{content.special_defense}</td>
-                    <td>{content.speed}</td>
-                  </tr>
-                );
-              case "special_attack":
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td>{content.HP}</td>
-                    <td>{content.attack}</td>
-                    <td>{content.defense}</td>
-                    <td style={maxSpecialAttackBackgroundColor}>{content.special_attack}</td>
-                    <td>{content.special_defense}</td>
-                    <td>{content.speed}</td>
-                  </tr>
-                );
-              case "special_defense":
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td>{content.HP}</td>
-                    <td>{content.attack}</td>
-                    <td>{content.defense}</td>
-                    <td>{content.special_attack}</td>
-                    <td style={maxSpecialDefenseBackgroundColor}>{content.special_defense}</td>
-                    <td>{content.speed}</td>
-                  </tr>
-                );
-              case "speed":
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td>{content.HP}</td>
-                    <td>{content.attack}</td>
-                    <td>{content.defense}</td>
-                    <td>{content.special_attack}</td>
-                    <td>{content.special_defense}</td>
-                    <td style={maxSpeedBackgroundColor}>{content.speed}</td>
-                  </tr>
-                );
-              default:
-                return (
-                  <tr key={i}>
-                    <td>{content.name}</td>
-                    <td>{content.HP}</td>
-                    <td>{content.attack}</td>
-                    <td>{content.defense}</td>
-                    <td>{content.special_attack}</td>
-                    <td>{content.special_defense}</td>
-                    <td>{content.speed}</td>
-                  </tr>
-                );
-              }
+              let isHPMax = content.max1 === "HP" || content.max2 === "HP";
+              let isAttackMax = content.max1 === "attack" || content.max2 === "attack";
+              let isDefenseMax = content.max1 === "defense" || content.max2 === "defense";
+              let isSpecialAttackMax = content.max1 === "special_attack" || content.max2 === "special_attack";
+              let isSpecialDefenseMax = content.max1 === "special_defense" || content.max2 === "special_defense";
+              let isSpeedMax = content.max1 === "speed" || content.max2 === "speed";
+
+              return (
+                <tr key={i}>
+                  <td>{content.name}</td>
+                  <td style={isHPMax ? maxHPBackgroundColor : {}}>{content.HP}</td>
+                  <td style={isAttackMax ? maxAttackBackgroundColor : {}}>{content.attack}</td>
+                  <td style={isDefenseMax ? maxDefenseBackgroundColor : {}}>{content.defense}</td>
+                  <td style={isSpecialAttackMax ? maxSpecialAttackBackgroundColor : {}}>{content.special_attack}</td>
+                  <td style={isSpecialDefenseMax ? maxSpecialDefenseBackgroundColor : {}}>{content.special_defense}</td>
+                  <td style={isSpeedMax ? maxSpeedBackgroundColor : {}}>{content.speed}</td>
+                </tr>
+              )
             })
           }
         </tbody>

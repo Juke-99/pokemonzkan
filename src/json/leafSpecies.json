@@ -8,7 +8,8 @@
       "special_attack": 90,
       "special_defense": 60,
       "speed": 80,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "アマージョ",
@@ -18,7 +19,8 @@
       "special_attack": 50,
       "special_defense": 98,
       "speed": 72,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "キレイハナ",
@@ -28,7 +30,8 @@
       "special_attack": 90,
       "special_defense": 100,
       "speed": 50,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ロズレイド",
@@ -38,7 +41,8 @@
       "special_attack": 125,
       "special_defense": 105,
       "speed": 90,
-      "max": "special_attack"
+      "max1": "special_attack",
+      "max2": ""
     },
     {
       "name": "ユキノオー",
@@ -48,7 +52,8 @@
       "special_attack": 92,
       "special_defense": 85,
       "speed": 60,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ワタシラガ",
@@ -58,7 +63,8 @@
       "special_attack": 80,
       "special_defense": 120,
       "speed": 60,
-      "max": "special_defense"
+      "max1": "special_defense",
+      "max2": ""
     },
     {
       "name": "チェリム",
@@ -68,7 +74,8 @@
       "special_attack": 87,
       "special_defense": 78,
       "speed": 85,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "リーフィア",
@@ -78,7 +85,8 @@
       "special_attack": 60,
       "special_defense": 65,
       "speed": 95,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "タルップル",
@@ -88,7 +96,8 @@
       "special_attack": 100,
       "special_defense": 80,
       "speed": 30,
-      "max": "HP"
+      "max1": "HP",
+      "max2": ""
     },
     {
       "name": "マラカッチ",
@@ -98,7 +107,8 @@
       "special_attack": 106,
       "special_defense": 67,
       "speed": 60,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "オーロット",
@@ -108,7 +118,8 @@
       "special_attack": 65,
       "special_defense": 82,
       "speed": 56,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "マシェード",
@@ -118,7 +129,8 @@
       "special_attack": 90,
       "special_defense": 100,
       "speed": 30,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ダダリン",
@@ -128,7 +140,8 @@
       "special_attack": 86,
       "special_defense": 90,
       "speed": 40,
-      "max": "attack"
+      "max1": "attack",
+      "max2": ""
     },
     {
       "name": "ルンパッパ",
@@ -138,7 +151,8 @@
       "special_attack": 90,
       "special_defense": 100,
       "speed": 70,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ラフレシア",
@@ -148,7 +162,8 @@
       "special_attack": 110,
       "special_defense": 90,
       "speed": 50,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ナットレイ",
@@ -158,7 +173,8 @@
       "special_attack": 54,
       "special_defense": 115,
       "speed": 20,
-      "max": "defense"
+      "max1": "defense",
+      "max2": ""
     },
     {
       "name": "パンプジン",
@@ -168,7 +184,8 @@
       "special_attack": 58,
       "special_defense": 75,
       "speed": 84,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "アップリュー",
@@ -178,7 +195,8 @@
       "special_attack": 95,
       "special_defense": 60,
       "speed": 70,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "エルフーン",
@@ -188,7 +206,8 @@
       "special_attack": 77,
       "special_defense": 75,
       "speed": 116,
-      "max": "speed"
+      "max1": "speed",
+      "max2": ""
     },
     {
       "name": "ロトム",
@@ -198,7 +217,8 @@
       "special_attack": 95,
       "special_defense": 77,
       "speed": 91,
-      "max": ""
+      "max1": "",
+      "max2": ""
     }
   ]
 }

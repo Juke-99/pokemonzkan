@@ -8,7 +8,8 @@
       "special_attack": 76,
       "special_defense": 71,
       "speed": 60,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "トリトドン",
@@ -18,7 +19,8 @@
       "special_attack": 92,
       "special_defense": 82,
       "speed": 39,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "グソクムシャ",
@@ -28,7 +30,8 @@
       "special_attack": 60,
       "special_defense": 90,
       "speed": 40,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ガメノデス",
@@ -38,7 +41,8 @@
       "special_attack": 54,
       "special_defense": 86,
       "speed": 68,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ハリーセン",
@@ -48,7 +52,8 @@
       "special_attack": 55,
       "special_defense": 55,
       "speed": 85,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ブルンゲル",
@@ -58,7 +63,8 @@
       "special_attack": 80,
       "special_defense": 120,
       "speed": 60,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ドヒドイデ",
@@ -68,7 +74,8 @@
       "special_attack": 53,
       "special_defense": 142,
       "speed": 35,
-      "max": "special_defense"
+      "max1": "special_defense",
+      "max2": ""
     },
     {
       "name": "ウッウ",
@@ -78,7 +85,8 @@
       "special_attack": 85,
       "special_defense": 95,
       "speed": 85,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "マンタイン",
@@ -88,7 +96,8 @@
       "special_attack": 80,
       "special_defense": 140,
       "speed": 70,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ホエルオー",
@@ -98,7 +107,8 @@
       "special_attack": 90,
       "special_defense": 45,
       "speed": 60,
-      "max": "HP"
+      "max1": "HP",
+      "max2": ""
     },
     {
       "name": "ラプラス",
@@ -108,7 +118,8 @@
       "special_attack": 85,
       "special_defense": 95,
       "speed": 60,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ウオノラゴン",
@@ -118,7 +129,8 @@
       "special_attack": 70,
       "special_defense": 80,
       "speed": 75,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ウオチルドン",
@@ -128,7 +140,8 @@
       "special_attack": 80,
       "special_defense": 90,
       "speed": 55,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "キングラー",
@@ -138,7 +151,8 @@
       "special_attack": 50,
       "special_defense": 50,
       "speed": 75,
-      "max": "attack"
+      "max1": "attack",
+      "max2": ""
     },
     {
       "name": "ヌオー",
@@ -148,7 +162,8 @@
       "special_attack": 65,
       "special_defense": 65,
       "speed": 35,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "シザリガー",
@@ -158,7 +173,8 @@
       "special_attack": 90,
       "special_defense": 55,
       "speed": 55,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ガマゲロゲ",
@@ -168,7 +184,8 @@
       "special_attack": 85,
       "special_defense": 75,
       "speed": 74,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ギャラドス",
@@ -178,7 +195,8 @@
       "special_attack": 60,
       "special_defense": 100,
       "speed": 81,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "アズマオウ",
@@ -188,7 +206,8 @@
       "special_attack": 65,
       "special_defense": 80,
       "speed": 68,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ロトム",
@@ -198,7 +217,8 @@
       "special_attack": 95,
       "special_defense": 77,
       "speed": 91,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "オクタン",
@@ -208,7 +228,8 @@
       "special_attack": 105,
       "special_defense": 75,
       "speed": 45,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "パルシェン",
@@ -218,7 +239,8 @@
       "special_attack": 85,
       "special_defense": 45,
       "speed": 70,
-      "max": "defense"
+      "max1": "defense",
+      "max2": ""
     },
     {
       "name": "ミロカロス",
@@ -228,7 +250,8 @@
       "special_attack": 100,
       "special_defense": 125,
       "speed": 81,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "バスラオ",
@@ -238,7 +261,8 @@
       "special_attack": 80,
       "special_defense": 55,
       "speed": 98,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ヨワシ",
@@ -248,7 +272,8 @@
       "special_attack": 25,
       "special_defense": 25,
       "speed": 40,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ナマコブシ",
@@ -258,7 +283,8 @@
       "special_attack": 30,
       "special_defense": 130,
       "speed": 5,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "カマスジョー",
@@ -268,7 +294,8 @@
       "special_attack": 60,
       "special_defense": 50,
       "speed": 136,
-      "max": "speed"
+      "max1": "speed",
+      "max2": ""
     },
     {
       "name": "シャワーズ",
@@ -278,7 +305,8 @@
       "special_attack": 110,
       "special_defense": 95,
       "speed": 65,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "オニシズクモ",
@@ -288,7 +316,8 @@
       "special_attack": 50,
       "special_defense": 132,
       "speed": 42,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ランターン",
@@ -298,7 +327,8 @@
       "special_attack": 76,
       "special_defense": 76,
       "speed": 67,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "ペリッパー",
@@ -308,7 +338,8 @@
       "special_attack": 95,
       "special_defense": 70,
       "speed": 65,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "インテレオン",
@@ -318,7 +349,8 @@
       "special_attack": 125,
       "special_defense": 65,
       "speed": 120,
-      "max": "special_attack"
+      "max1": "special_attack",
+      "max2": ""
     },
     {
       "name": "ルンパッパ",
@@ -328,7 +360,8 @@
       "special_attack": 90,
       "special_defense": 100,
       "speed": 70,
-      "max": ""
+      "max1": "",
+      "max2": ""
     },
     {
       "name": "カジリガメ",
@@ -338,7 +371,8 @@
       "special_attack": 48,
       "special_defense": 68,
       "speed": 74,
-      "max": ""
+      "max1": "",
+      "max2": ""
     }
   ]
 }
