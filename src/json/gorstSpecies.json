@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "name": "ヌケニン",
+      "HP": 1,
+      "attack": 90,
+      "defense": 45,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 40,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "フワライド",
+      "HP": 150,
+      "attack": 80,
+      "defense": 44,
+      "special_attack": 90,
+      "special_defense": 54,
+      "speed": 80,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "ヨノワール",
+      "HP": 45,
+      "attack": 100,
+      "defense": 135,
+      "special_attack": 65,
+      "special_defense": 135,
+      "speed": 45,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ゲンガー",
+      "HP": 60,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 130,
+      "special_defense": 75,
+      "speed": 110,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "パンプジン",
+      "HP": 65,
+      "attack": 90,
+      "defense": 122,
+      "special_attack": 58,
+      "special_defense": 75,
+      "speed": 84,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "シャンデラ",
+      "HP": 60,
+      "attack": 55,
+      "defense": 90,
+      "special_attack": 145,
+      "special_defense": 90,
+      "speed": 80,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "サニゴーン",
+      "HP": 60,
+      "attack": 95,
+      "defense": 50,
+      "special_attack": 145,
+      "special_defense": 130,
+      "speed": 30,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "ヤミラミ",
+      "HP": 50,
+      "attack": 75,
+      "defense": 75,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ミミッキュ",
+      "HP": 55,
+      "attack": 90,
+      "defense": 80,
+      "special_attack": 50,
+      "special_defense": 105,
+      "speed": 96,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ブルンゲル",
+      "HP": 100,
+      "attack": 60,
+      "defense": 70,
+      "special_attack": 85,
+      "special_defense": 105,
+      "speed": 60,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "デスバーン",
+      "HP": 58,
+      "attack": 95,
+      "defense": 145,
+      "special_attack": 50,
+      "special_defense": 105,
+      "speed": 30,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "ロトム",
+      "HP": 50,
+      "attack": 50,
+      "defense": 77,
+      "special_attack": 95,
+      "special_defense": 77,
+      "speed": 91,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "デスカーン",
+      "HP": 58,
+      "attack": 50,
+      "defense": 145,
+      "special_attack": 95,
+      "special_defense": 105,
+      "speed": 30,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "ギルガルド",
+      "HP": 60,
+      "attack": 50,
+      "defense": 140,
+      "special_attack": 50,
+      "special_defense": 150,
+      "speed": 60,
+      "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "ポットデス",
+      "HP": 60,
+      "attack": 65,
+      "defense": 65,
+      "special_attack": 134,
+      "special_defense": 114,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "オーロット",
+      "HP": 85,
+      "attack": 110,
+      "defense": 76,
+      "special_attack": 65,
+      "special_defense": 82,
+      "speed": 56,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドラパルト",
+      "HP": 88,
+      "attack": 120,
+      "defense": 75,
+      "special_attack": 100,
+      "special_defense": 75,
+      "speed": 142,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "ユキメノコ",
+      "HP": 70,
+      "attack": 80,
+      "defense": 70,
+      "special_attack": 80,
+      "special_defense": 70,
+      "speed": 110,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ゴルーグ",
+      "HP": 89,
+      "attack": 124,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 55,
+      "max1": "attack",
+      "max2": ""
+    }
+  ]
+}
