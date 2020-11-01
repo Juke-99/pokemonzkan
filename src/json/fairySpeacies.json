@@ -1,0 +1,191 @@
+{
+    "data": [
+      {
+        "name": "サーナイト",
+        "HP": 68,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 125,
+        "special_defense": 115,
+        "speed": 80,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "マホイップ",
+        "HP": 65,
+        "attack": 60,
+        "defense": 75,
+        "special_attack": 110,
+        "special_defense": 121,
+        "speed": 64,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "アブリボン",
+        "HP": 60,
+        "attack": 55,
+        "defense": 60,
+        "special_attack": 95,
+        "special_defense": 70,
+        "speed": 124,
+        "max1": "speed",
+        "max2": ""
+      },
+      {
+        "name": "ニンフィア",
+        "HP": 95,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 110,
+        "special_defense": 130,
+        "speed": 60,
+        "max1": "special_defense",
+        "max2": ""
+      },
+      {
+        "name": "ペロリーム",
+        "HP": 82,
+        "attack": 60,
+        "defense": 86,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 72,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "フレフワン",
+        "HP": 101,
+        "attack": 72,
+        "defense": 72,
+        "special_attack": 99,
+        "special_defense": 89,
+        "speed": 29,
+        "max1": "HP",
+        "max2": ""
+      },
+      {
+        "name": "オーロンゲ",
+        "HP": 95,
+        "attack": 120,
+        "defense": 65,
+        "special_attack": 95,
+        "special_defense": 75,
+        "speed": 60,
+        "max1": "attack",
+        "max2": ""
+      },
+      {
+        "name": "ブリムオン",
+        "HP": 57,
+        "attack": 90,
+        "defense": 95,
+        "special_attack": 136,
+        "special_defense": 103,
+        "speed": 29,
+        "max1": "special_attack",
+        "max2": ""
+      },
+      {
+        "name": "ガラルマタドガス",
+        "HP": 65,
+        "attack": 90,
+        "defense": 120,
+        "special_attack": 85,
+        "special_defense": 70,
+        "speed": 60,
+        "max1": "defense",
+        "max2": ""
+      },
+      {
+        "name": "ピクシー",
+        "HP": 95,
+        "attack": 70,
+        "defense": 73,
+        "special_attack": 95,
+        "special_defense": 90,
+        "speed": 60,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "トゲキッス",
+        "HP": 85,
+        "attack": 50,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 115,
+        "speed": 80,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "エルフーン",
+        "HP": 60,
+        "attack": 67,
+        "defense": 85,
+        "special_attack": 77,
+        "special_defense": 75,
+        "speed": 116,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "クチート",
+        "HP": 50,
+        "attack": 85,
+        "defense": 85,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 50,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ミミッキュ",
+        "HP": 55,
+        "attack": 90,
+        "defense": 80,
+        "special_attack": 50,
+        "special_defense": 105,
+        "speed": 96,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ガラルギャロップ",
+        "HP": 65,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 105,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "マシェード",
+        "HP": 60,
+        "attack": 45,
+        "defense": 80,
+        "special_attack": 90,
+        "special_defense": 100,
+        "speed": 30,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "バリヤード(ガラルじゃない)",
+        "HP": 40,
+        "attack": 45,
+        "defense": 65,
+        "special_attack": 100,
+        "special_defense": 120,
+        "speed": 90,
+        "max1": "",
+        "max2": ""
+      }
+    ]
+  }

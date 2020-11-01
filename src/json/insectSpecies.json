@@ -1,0 +1,191 @@
+{
+    "data": [
+      {
+        "name": "ヌケニン",
+        "HP": 1,
+        "attack": 90,
+        "defense": 45,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 40,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "イオルブ",
+        "HP": 60,
+        "attack": 45,
+        "defense": 110,
+        "special_attack": 80,
+        "special_defense": 120,
+        "speed": 90,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "バタフリー",
+        "HP": 60,
+        "attack": 45,
+        "defense": 50,
+        "special_attack": 90,
+        "special_defense": 80,
+        "speed": 70,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "クワガノン",
+        "HP": 77,
+        "attack": 70,
+        "defense": 90,
+        "special_attack": 145,
+        "special_defense": 75,
+        "speed": 43,
+        "max1": "special_attack",
+        "max2": ""
+      },
+      {
+        "name": "デンチュラ",
+        "HP": 70,
+        "attack": 77,
+        "defense": 60,
+        "special_attack": 97,
+        "special_defense": 60,
+        "speed": 108,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "イワパレス",
+        "HP": 70,
+        "attack": 105,
+        "defense": 125,
+        "special_attack": 65,
+        "special_defense": 75,
+        "speed": 45,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "テッカニン",
+        "HP": 61,
+        "attack": 90,
+        "defense": 45,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 160,
+        "max1": "speed",
+        "max2": ""
+      },
+      {
+        "name": "ビークイン",
+        "HP": 70,
+        "attack": 80,
+        "defense": 102,
+        "special_attack": 80,
+        "special_defense": 102,
+        "speed": 40,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "マルヤクデ",
+        "HP": 100,
+        "attack": 115,
+        "defense": 65,
+        "special_attack": 90,
+        "special_defense": 90,
+        "speed": 65,
+        "max1": "HP",
+        "max2": ""
+      },
+      {
+        "name": "アブリボン",
+        "HP": 60,
+        "attack": 55,
+        "defense": 60,
+        "special_attack": 95,
+        "special_defense": 70,
+        "speed": 124,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "オニシズクモ",
+        "HP": 68,
+        "attack": 70,
+        "defense": 92,
+        "special_attack": 50,
+        "special_defense": 132,
+        "speed": 42,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ツボツボ",
+        "HP": 20,
+        "attack": 10,
+        "defense": 230,
+        "special_attack": 10,
+        "special_defense": 230,
+        "speed": 5,
+        "max1": "defense",
+        "max2": "special_defense"
+      },
+      {
+        "name": "グソクムシャ",
+        "HP": 75,
+        "attack": 125,
+        "defense": 140,
+        "special_attack": 60,
+        "special_defense": 90,
+        "speed": 40,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "シュバルゴ",
+        "HP": 70,
+        "attack": 135,
+        "defense": 105,
+        "special_attack": 60,
+        "special_defense": 105,
+        "speed": 20,
+        "max1": "attack",
+        "max2": ""
+      },
+      {
+        "name": "アギルダー",
+        "HP": 80,
+        "attack": 70,
+        "defense": 40,
+        "special_attack": 100,
+        "special_defense": 60,
+        "speed": 145,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "アイアント",
+        "HP": 58,
+        "attack": 109,
+        "defense": 112,
+        "special_attack": 48,
+        "special_defense": 48,
+        "speed": 109,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "モスノウ",
+        "HP": 70,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 125,
+        "special_defense": 90,
+        "speed": 65,
+        "max1": "",
+        "max2": ""
+      }
+    ]
+  }

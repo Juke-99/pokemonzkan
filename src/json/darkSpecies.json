@@ -1,0 +1,213 @@
+{
+    "data": [
+      {
+        "name": "フォクスライ",
+        "HP": 70,
+        "attack": 58,
+        "defense": 58,
+        "special_attack": 87,
+        "special_defense": 92,
+        "speed": 90,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "タチフサグマ",
+        "HP": 93,
+        "attack": 90,
+        "defense": 101,
+        "special_attack": 60,
+        "special_defense": 81,
+        "speed": 95,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ダーテング",
+        "HP": 90,
+        "attack": 100,
+        "defense": 60,
+        "special_attack": 90,
+        "special_defense": 60,
+        "speed": 80,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "レパルダス",
+        "HP": 64,
+        "attack": 88,
+        "defense": 50,
+        "special_attack": 88,
+        "special_defense": 50,
+        "speed": 106,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "シザリガー",
+        "HP": 63,
+        "attack": 120,
+        "defense": 85,
+        "special_attack": 90,
+        "special_defense": 55,
+        "speed": 55,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ゴロンダ",
+        "HP": 95,
+        "attack": 124,
+        "defense": 78,
+        "special_attack": 69,
+        "special_defense": 71,
+        "speed": 58,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "スカタンク",
+        "HP": 103,
+        "attack": 93,
+        "defense": 67,
+        "special_attack": 71,
+        "special_defense": 61,
+        "speed": 84,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ブラッキー",
+        "HP": 95,
+        "attack": 65,
+        "defense": 110,
+        "special_attack": 60,
+        "special_defense": 130,
+        "speed": 65,
+        "max1": "special_defense",
+        "max2": ""
+      },
+      {
+        "name": "ズルズキン",
+        "HP": 65,
+        "attack": 90,
+        "defense": 115,
+        "special_attack": 45,
+        "special_defense": 115,
+        "speed": 58,
+        "max1": "defense",
+        "max2": ""
+      },
+      {
+        "name": "オーロンゲ",
+        "HP": 95,
+        "attack": 120,
+        "defense": 65,
+        "special_attack": 95,
+        "special_defense": 75,
+        "speed": 60,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "キリキザン",
+        "HP": 65,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 70,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "バルジーナ",
+        "HP": 110,
+        "attack": 65,
+        "defense": 105,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 80,
+        "max1": "HP",
+        "max2": ""
+      },
+      {
+        "name": "ドラピオン",
+        "HP": 70,
+        "attack": 90,
+        "defense": 110,
+        "special_attack": 60,
+        "special_defense": 75,
+        "speed": 95,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "カラマネロ",
+        "HP": 88,
+        "attack": 92,
+        "defense": 88,
+        "special_attack": 68,
+        "special_defense": 75,
+        "speed": 73,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "マニューラ",
+        "HP": 70,
+        "attack": 120,
+        "defense": 65,
+        "special_attack": 45,
+        "special_defense": 85,
+        "speed": 125,
+        "max1": "speed",
+        "max2": ""
+      },
+      {
+        "name": "ヤミラミ",
+        "HP": 50,
+        "attack": 75,
+        "defense": 75,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 50,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "モルペコ",
+        "HP": 58,
+        "attack": 95,
+        "defense": 58,
+        "special_attack": 70,
+        "special_defense": 58,
+        "speed": 97,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "バンギラス",
+        "HP": 100,
+        "attack": 134,
+        "defense": 110,
+        "special_attack": 95,
+        "special_defense": 100,
+        "speed": 61,
+        "max1": "attack",
+        "max2": ""
+      },
+      {
+        "name": "サザンドラ",
+        "HP": 92,
+        "attack": 105,
+        "defense": 90,
+        "special_attack": 125,
+        "special_defense": 90,
+        "speed": 98,
+        "max1": "special_attack",
+        "max2": ""
+      }
+    ]
+  }

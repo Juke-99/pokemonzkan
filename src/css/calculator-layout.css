@@ -1,0 +1,9 @@
+.calc-title, .calc-result {
+  width: 300px;
+  margin: 25px;
+  padding: 10px;
+}
+
+.calc-result { 
+  border-bottom: 1px solid white;
+}

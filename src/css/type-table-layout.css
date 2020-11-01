@@ -1,3 +1,8 @@
+body {
+  background-color: #111;
+  color: white;
+}
+
 table {
   border-collapse: collapse;
   margin: 2%;
@@ -13,17 +18,34 @@ th {
 }
 
 th:hover {
-  background-color: #99ddff;
+  background-color: #005580;
 }
 
-tbody tr:nth-child(1), tr:nth-child(2n+3) {
+tbody tr {
+  background-color: black;
+}
+
+/* tbody tr:nth-child(1), tr:nth-child(2n+3) {
   background-color: #ffccdd;
 }
 
 tr:nth-child(even) {
   background-color: #ddffcc;
-}
+} */
 
 thead tr {
   background-color: #99aaff;
+}
+
+tr {
+  border-bottom: solid white 0.05em;
+}
+
+a {
+  color: #4598c2;
+  text-decoration: #4dbcf3;
+}
+
+a:hover {
+  color: #bde9ff;
 }

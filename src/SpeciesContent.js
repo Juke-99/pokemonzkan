@@ -38,7 +38,7 @@ class SpeciesContent extends Component {
     };
 
     const maxSpecialAttackBackgroundColor = {
-      backgroundColor: '#11ff99'
+      backgroundColor: '#11dd99'
     };
 
     const maxSpecialDefenseBackgroundColor = {
@@ -60,6 +60,7 @@ class SpeciesContent extends Component {
             <th data-cell="5" onClick={this.tableSort.bind(this)}>とっこう</th>
             <th data-cell="6" onClick={this.tableSort.bind(this)}>とくぼう</th>
             <th data-cell="7" onClick={this.tableSort.bind(this)}>すばやさ</th>
+            <th data-cell="8" onClick={this.tableSort.bind(this)}>種族値</th>
           </tr>
         </thead>
 
@@ -82,6 +83,7 @@ class SpeciesContent extends Component {
                   <td style={isSpecialAttackMax ? maxSpecialAttackBackgroundColor : {}}>{content.special_attack}</td>
                   <td style={isSpecialDefenseMax ? maxSpecialDefenseBackgroundColor : {}}>{content.special_defense}</td>
                   <td style={isSpeedMax ? maxSpeedBackgroundColor : {}}>{content.speed}</td>
+                  <td>{content.HP + content.attack + content.defense + content.special_attack + content.special_defense + content.speed}</td>
                 </tr>
               )
             })
