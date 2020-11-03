@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "name": "キテルグマ",
+      "HP": 120,
+      "attack": 125,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 60,
+      "speed": 60,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "サワムラー",
+      "HP": 50,
+      "attack": 120,
+      "defense": 53,
+      "special_attack": 35,
+      "special_defense": 110,
+      "speed": 87,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "エビワラー",
+      "HP": 50,
+      "attack": 105,
+      "defense": 79,
+      "special_attack": 35,
+      "special_defense": 110,
+      "speed": 76,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "カポエラー",
+      "HP": 50,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 35,
+      "special_defense": 110,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ゴロンダ",
+      "HP": 95,
+      "attack": 124,
+      "defense": 78,
+      "special_attack": 69,
+      "special_defense": 71,
+      "speed": 58,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "エルレイド",
+      "HP": 68,
+      "attack": 125,
+      "defense": 65,
+      "special_attack": 65,
+      "special_defense": 115,
+      "speed": 80,
+      "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "カイリキー",
+      "HP": 90,
+      "attack": 130,
+      "defense": 80,
+      "special_attack": 65,
+      "special_defense": 85,
+      "speed": 55,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ローブシン",
+      "HP": 105,
+      "attack": 140,
+      "defense": 95,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 45,
+      "max1": "attack",
+      "max2": ""
+    },
+    {
+      "name": "ネギガナイト",
+      "HP": 62,
+      "attack": 135,
+      "defense": 95,
+      "special_attack": 68,
+      "special_defense": 92,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドクロッグ",
+      "HP": 83,
+      "attack": 106,
+      "defense": 65,
+      "special_attack": 86,
+      "special_defense": 65,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ズルズキン",
+      "HP": 65,
+      "attack": 90,
+      "defense": 115,
+      "special_attack": 45,
+      "special_defense": 115,
+      "speed": 58,
+      "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "ナゲキ",
+      "HP": 120,
+      "attack": 100,
+      "defense": 85,
+      "special_attack": 30,
+      "special_defense": 85,
+      "speed": 45,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "ダゲキ",
+      "HP": 75,
+      "attack": 125,
+      "defense": 75,
+      "special_attack": 30,
+      "special_defense": 75,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ルカリオ",
+      "HP": 70,
+      "attack": 110,
+      "defense": 70,
+      "special_attack": 115,
+      "special_defense": 70,
+      "speed": 90,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "ルチャブル",
+      "HP": 78,
+      "attack": 92,
+      "defense": 75,
+      "special_attack": 74,
+      "special_defense": 63,
+      "speed": 118,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "ナゲツケサル",
+      "HP": 100,
+      "attack": 120,
+      "defense": 90,
+      "special_attack": 40,
+      "special_defense": 60,
+      "speed": 80,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "タイレーツ",
+      "HP": 65,
+      "attack": 100,
+      "defense": 100,
+      "special_attack": 70,
+      "special_defense": 60,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "オトスパス",
+      "HP": 80,
+      "attack": 118,
+      "defense": 90,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 42,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ジャラランガ",
+      "HP": 75,
+      "attack": 110,
+      "defense": 125,
+      "special_attack": 100,
+      "special_defense": 105,
+      "speed": 85,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "ザマゼンタ",
+      "HP": 92,
+      "attack": 130,
+      "defense": 145,
+      "special_attack": 80,
+      "special_defense": 145,
+      "speed": 128,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

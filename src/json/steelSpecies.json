@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "name": "アーマーガア",
+      "HP": 98,
+      "attack": 87,
+      "defense": 105,
+      "special_attack": 53,
+      "special_defense": 85,
+      "speed": 67,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ギギギアル",
+      "HP": 60,
+      "attack": 100,
+      "defense": 115,
+      "special_attack": 70,
+      "special_defense": 85,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドータクン",
+      "HP": 67,
+      "attack": 89,
+      "defense": 116,
+      "special_attack": 79,
+      "special_defense": 116,
+      "speed": 33,
+      "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "ドリュウズ",
+      "HP": 110,
+      "attack": 135,
+      "defense": 60,
+      "special_attack": 50,
+      "special_defense": 65,
+      "speed": 88,
+      "max1": "attack",
+      "max2": ""
+    },
+    {
+      "name": "ハガネール",
+      "HP": 75,
+      "attack": 85,
+      "defense": 200,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 30,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "ニャイキング",
+      "HP": 75,
+      "attack": 110,
+      "defense": 100,
+      "special_attack": 50,
+      "special_defense": 60,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ナットレイ",
+      "HP": 75,
+      "attack": 94,
+      "defense": 131,
+      "special_attack": 54,
+      "special_defense": 115,
+      "speed": 20,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガラルマッギョ",
+      "HP": 105,
+      "attack": 81,
+      "defense": 99,
+      "special_attack": 66,
+      "special_defense": 84,
+      "speed": 32,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "キリキザン",
+      "HP": 65,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 60,
+      "special_defense": 70,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "シュバルゴ",
+      "HP": 70,
+      "attack": 135,
+      "defense": 105,
+      "special_attack": 60,
+      "special_defense": 105,
+      "speed": 20,
+      "max1": "attack",
+      "max2": ""
+    },
+    {
+      "name": "クチート",
+      "HP": 50,
+      "attack": 85,
+      "defense": 85,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ルカリオ",
+      "HP": 70,
+      "attack": 110,
+      "defense": 70,
+      "special_attack": 115,
+      "special_defense": 70,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ダイオウドウ",
+      "HP": 122,
+      "attack": 130,
+      "defense": 69,
+      "special_attack": 80,
+      "special_defense": 69,
+      "speed": 30,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "アイアント",
+      "HP": 58,
+      "attack": 109,
+      "defense": 112,
+      "special_attack": 48,
+      "special_defense": 48,
+      "speed": 109,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "トゲデマル",
+      "HP": 65,
+      "attack": 98,
+      "defense": 63,
+      "special_attack": 40,
+      "special_defense": 73,
+      "speed": 96,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ジュラルドン",
+      "HP": 70,
+      "attack": 95,
+      "defense": 115,
+      "special_attack": 120,
+      "special_defense": 50,
+      "speed": 85,
+      "max1": "special_attack",
+      "max2": ""
+    }
+  ]
+}

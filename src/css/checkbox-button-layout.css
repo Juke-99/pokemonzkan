@@ -35,24 +35,6 @@ ul.ks-cboxtags li label {
     cursor: pointer;
 }
 
-ul.ks-cboxtags li label::before {
-    display: inline-block;
-    font-style: normal;
-    font-variant: normal;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    font-size: 12px;
-    padding: 2px 6px 2px 2px;
-    transition: transform .3s ease-in-out;
-}
-
-ul.ks-cboxtags li input[type="checkbox"]:checked + label::before {
-    transform: rotate(-360deg);
-    transition: transform .3s ease-in-out;
-}
-
 ul.ks-cboxtags li input[type="checkbox"]:checked + label {
     border: 0.05em solid #1bdbf8;
     background-color: rgb(41, 205, 247);

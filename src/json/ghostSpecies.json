@@ -144,14 +144,25 @@
       "max2": ""
     },
     {
-      "name": "ギルガルド",
+      "name": "ギルガルド(シールドフォルム)",
       "HP": 60,
       "attack": 50,
       "defense": 140,
       "special_attack": 50,
-      "special_defense": 150,
+      "special_defense": 140,
       "speed": 60,
       "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "ギルガルド(ブレードフォルム)",
+      "HP": 60,
+      "attack": 140,
+      "defense": 50,
+      "special_attack": 140,
+      "special_defense": 50,
+      "speed": 60,
+      "max1": "",
       "max2": ""
     },
     {

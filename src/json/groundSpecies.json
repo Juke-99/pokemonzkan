@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "name": "ホルード",
+      "HP": 85,
+      "attack": 56,
+      "defense": 77,
+      "special_attack": 50,
+      "special_defense": 77,
+      "speed": 78,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "マンムー",
+      "HP": 110,
+      "attack": 130,
+      "defense": 80,
+      "special_attack": 70,
+      "special_defense": 60,
+      "speed": 80,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ネンドール",
+      "HP": 60,
+      "attack": 70,
+      "defense": 105,
+      "special_attack": 70,
+      "special_defense": 120,
+      "speed": 75,
+      "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "バンバドロ",
+      "HP": 100,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 85,
+      "speed": 35,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ゴルーグ",
+      "HP": 89,
+      "attack": 124,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 55,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ヌオー",
+      "HP": 95,
+      "attack": 85,
+      "defense": 85,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 35,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ツチニン",
+      "HP": 31,
+      "attack": 45,
+      "defense": 90,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 40,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガマゲロゲ",
+      "HP": 105,
+      "attack": 95,
+      "defense": 75,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 74,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ダグトリオ",
+      "HP": 35,
+      "attack": 100,
+      "defense": 50,
+      "special_attack": 50,
+      "special_defense": 70,
+      "speed": 120,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "ドリュウズ",
+      "HP": 110,
+      "attack": 135,
+      "defense": 60,
+      "special_attack": 50,
+      "special_defense": 65,
+      "speed": 88,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ハガネール",
+      "HP": 75,
+      "attack": 85,
+      "defense": 200,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 30,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "ガラルマッギョ",
+      "HP": 105,
+      "attack": 81,
+      "defense": 99,
+      "special_attack": 66,
+      "special_defense": 84,
+      "speed": 32,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ナマズン",
+      "HP": 110,
+      "attack": 78,
+      "defense": 73,
+      "special_attack": 76,
+      "special_defense": 71,
+      "speed": 60,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "トリトドン",
+      "HP": 111,
+      "attack": 83,
+      "defense": 68,
+      "special_attack": 92,
+      "special_defense": 82,
+      "speed": 39,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "ドサイドン",
+      "HP": 115,
+      "attack": 140,
+      "defense": 130,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 40,
+      "max1": "HP",
+      "max2": "attack"
+    },
+    {
+      "name": "サダイジャ",
+      "HP": 72,
+      "attack": 107,
+      "defense": 125,
+      "special_attack": 65,
+      "special_defense": 70,
+      "speed": 71,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "カバルドン",
+      "HP": 108,
+      "attack": 112,
+      "defense": 118,
+      "special_attack": 68,
+      "special_defense": 72,
+      "speed": 47,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "フライゴン",
+      "HP": 80,
+      "attack": 100,
+      "defense": 80,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "デスバーン",
+      "HP": 58,
+      "attack": 95,
+      "defense": 145,
+      "special_attack": 50,
+      "special_defense": 105,
+      "speed": 30,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "サナギラス",
+      "HP": 70,
+      "attack": 84,
+      "defense": 70,
+      "special_attack": 65,
+      "special_defense": 70,
+      "speed": 51,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

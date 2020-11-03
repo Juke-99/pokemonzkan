@@ -5,20 +5,29 @@ import './css/calculator-layout.css'
 
 function Calculator() {
   const [criticalHitRank, setCriticalHitRank] = useState(0)
-
-  useEffect(() => {
-    console.log("checkItem: " + criticalHitRank);
-  })
-
+  // const [criticalHitCheckboxState, setCriticalHitCheckboxState] = useState([])
 
   const handleCriticalHitRank = event => {
     const target = event.target
 
     if(target.checked) {
-      setCriticalHitRank(criticalHitRank + parseInt(event.target.value))
+      setCriticalHitRank(criticalHitRank + parseInt(target.value))
+      // criticalHitCheckboxState.push({id: target.id, checked: target.checked})
     } else {
-      setCriticalHitRank(criticalHitRank - parseInt(event.target.value))
+      setCriticalHitRank(criticalHitRank - parseInt(target.value))
     }
+  }
+
+  const resetButtonAnimation = event => {
+    const target = event.target
+
+    event.preventDefault();
+    target.classList.remove('animate');
+    target.classList.add('animate');
+
+    setTimeout(() => {
+      target.classList.remove('animate');
+    }, 700)
   }
 
   const criticalHitRankCalculator = rankSum => {
@@ -33,10 +42,21 @@ function Calculator() {
     }
   }
 
+  // const handleCriticalHitResetRank = event => {
+  //   resetButtonAnimation(event)
+  // }
+
   return (
     <div>
       <div>
         <p className="calc-title">急所ランク</p>
+        <CheckBox items={Critical.data} onChange={handleCriticalHitRank}></CheckBox>
+        {/* <button className="bubbly-button" onClick={handleCriticalHitResetRank}>リセット</button> */}
+        <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p>
+      </div>
+
+      <div>
+        <p className="calc-title">ランク補正</p>
         <CheckBox items={Critical.data} onChange={handleCriticalHitRank}></CheckBox>
         <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p>
       </div>

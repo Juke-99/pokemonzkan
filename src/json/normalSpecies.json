@@ -1,0 +1,213 @@
+{
+    "data": [
+      {
+        "name": "ヨルノズク",
+        "HP": 100,
+        "attack": 50,
+        "defense": 50,
+        "special_attack": 86,
+        "special_defense": 96,
+        "speed": 70,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ヨクバリス",
+        "HP": 120,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 55,
+        "special_defense": 75,
+        "speed": 20,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ケンホロウ",
+        "HP": 80,
+        "attack": 115,
+        "defense": 80,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 93,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "タチフサグマ",
+        "HP": 93,
+        "attack": 90,
+        "defense": 101,
+        "special_attack": 60,
+        "special_defense": 81,
+        "speed": 95,
+        "max1": "defense",
+        "max2": ""
+      },
+      {
+        "name": "バイウールー",
+        "HP": 72,
+        "attack": 80,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 90,
+        "speed": 88,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ホルード",
+        "HP": 85,
+        "attack": 56,
+        "defense": 77,
+        "special_attack": 50,
+        "special_defense": 77,
+        "speed": 78,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "チラチーノ",
+        "HP": 75,
+        "attack": 95,
+        "defense": 60,
+        "special_attack": 65,
+        "special_defense": 60,
+        "speed": 115,
+        "max1": "speed",
+        "max2": ""
+      },
+      {
+        "name": "キテルグマ",
+        "HP": 120,
+        "attack": 125,
+        "defense": 80,
+        "special_attack": 55,
+        "special_defense": 60,
+        "speed": 60,
+        "max1": "attack",
+        "max2": ""
+      },
+      {
+        "name": "ペルシアン",
+        "HP": 65,
+        "attack": 70,
+        "defense": 60,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 115,
+        "max1": "speed",
+        "max2": ""
+      },
+      {
+        "name": "イーブイ",
+        "HP": 55,
+        "attack": 55,
+        "defense": 50,
+        "special_attack": 45,
+        "special_defense": 65,
+        "speed": 55,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "カビゴン",
+        "HP": 160,
+        "attack": 110,
+        "defense": 65,
+        "special_attack": 65,
+        "special_defense": 110,
+        "speed": 30,
+        "max1": "HP",
+        "max2": "special_defense"
+      },
+      {
+        "name": "ウォーグル",
+        "HP": 100,
+        "attack": 123,
+        "defense": 75,
+        "special_attack": 57,
+        "special_defense": 75,
+        "speed": 80,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "エレザード",
+        "HP": 62,
+        "attack": 55,
+        "defense": 52,
+        "special_attack": 109,
+        "special_defense": 94,
+        "speed": 109,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "イエッサン(オス)",
+        "HP": 60,
+        "attack": 65,
+        "defense": 55,
+        "special_attack": 105,
+        "special_defense": 95,
+        "speed": 95,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "イエッサン(メス)",
+        "HP": 70,
+        "attack": 55,
+        "defense": 65,
+        "special_attack": 95,
+        "special_defense": 105,
+        "speed": 85,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ヤレユータン",
+        "HP": 90,
+        "attack": 60,
+        "defense": 80,
+        "special_attack": 90,
+        "special_defense": 110,
+        "speed": 60,
+        "max1": "special_defense",
+        "max2": ""
+      },
+      {
+        "name": "ジジーロン",
+        "HP": 78,
+        "attack": 60,
+        "defense": 85,
+        "special_attack": 135,
+        "special_defense": 91,
+        "speed": 36,
+        "max1": "special_attack",
+        "max2": ""
+      },
+      {
+        "name": "メタモン",
+        "HP": 48,
+        "attack": 48,
+        "defense": 48,
+        "special_attack": 48,
+        "special_defense": 48,
+        "speed": 48,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "シルヴァディ",
+        "HP": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95,
+        "max1": "",
+        "max2": ""
+      }
+    ]
+  }

@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "name": "ラフレシア",
+      "HP": 75,
+      "attack": 80,
+      "defense": 85,
+      "special_attack": 110,
+      "special_defense": 90,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ロズレイド",
+      "HP": 60,
+      "attack": 70,
+      "defense": 65,
+      "special_attack": 125,
+      "special_defense": 105,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "スカタンク",
+      "HP": 103,
+      "attack": 93,
+      "defense": 67,
+      "special_attack": 71,
+      "special_defense": 61,
+      "speed": 84,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "ゲンガー",
+      "HP": 60,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 130,
+      "special_defense": 75,
+      "speed": 110,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "ダストダス",
+      "HP": 80,
+      "attack": 95,
+      "defense": 82,
+      "special_attack": 60,
+      "special_defense": 82,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドクロッグ",
+      "HP": 83,
+      "attack": 106,
+      "defense": 65,
+      "special_attack": 86,
+      "special_defense": 65,
+      "speed": 85,
+      "max1": "attack",
+      "max2": ""
+    },
+    {
+      "name": "エンニュート",
+      "HP": 68,
+      "attack": 64,
+      "defense": 60,
+      "special_attack": 111,
+      "special_defense": 60,
+      "speed": 117,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "マタドガス（ガラルも同様）",
+      "HP": 65,
+      "attack": 90,
+      "defense": 120,
+      "special_attack": 85,
+      "special_defense": 70,
+      "speed": 60,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドラピオン",
+      "HP": 70,
+      "attack": 90,
+      "defense": 110,
+      "special_attack": 60,
+      "special_defense": 75,
+      "speed": 95,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ハリーセン",
+      "HP": 65,
+      "attack": 95,
+      "defense": 85,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドヒドイデ",
+      "HP": 50,
+      "attack": 63,
+      "defense": 152,
+      "special_attack": 53,
+      "special_defense": 142,
+      "speed": 35,
+      "max1": "defense",
+      "max2": "special_defense"
+    },
+    {
+      "name": "ストリンダー",
+      "HP": 75,
+      "attack": 98,
+      "defense": 70,
+      "special_attack": 114,
+      "special_defense": 70,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ムゲンダイナ",
+      "HP": 140,
+      "attack": 85,
+      "defense": 95,
+      "special_attack": 145,
+      "special_defense": 95,
+      "speed": 130,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

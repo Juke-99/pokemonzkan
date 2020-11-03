@@ -276,6 +276,17 @@
       "max2": ""
     },
     {
+      "name": "ヨワシ(むれのすがた)",
+      "HP": 45,
+      "attack": 140,
+      "defense": 130,
+      "special_attack": 140,
+      "special_defense": 135,
+      "speed": 30,
+      "max1": "",
+      "max2": ""
+    },
+    {
       "name": "ナマコブシ",
       "HP": 55,
       "attack": 60,

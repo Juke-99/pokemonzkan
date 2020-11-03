@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "name": "クワガノン",
+      "HP": 77,
+      "attack": 70,
+      "defense": 90,
+      "special_attack": 145,
+      "special_defense": 75,
+      "speed": 43,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "パルスワン",
+      "HP": 69,
+      "attack": 90,
+      "defense": 60,
+      "special_attack": 90,
+      "special_defense": 60,
+      "speed": 121,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "デンチュラ",
+      "HP": 70,
+      "attack": 77,
+      "defense": 60,
+      "special_attack": 97,
+      "special_defense": 60,
+      "speed": 108,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ライボルト",
+      "HP": 70,
+      "attack": 75,
+      "defense": 60,
+      "special_attack": 105,
+      "special_defense": 60,
+      "speed": 105,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ライチュウ",
+      "HP": 60,
+      "attack": 45,
+      "defense": 110,
+      "special_attack": 80,
+      "special_defense": 120,
+      "speed": 90,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "サンダース",
+      "HP": 65,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 110,
+      "special_defense": 95,
+      "speed": 130,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "ランターン",
+      "HP": 125,
+      "attack": 58,
+      "defense": 58,
+      "special_attack": 76,
+      "special_defense": 76,
+      "speed": 67,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "ストリンダー",
+      "HP": 75,
+      "attack": 98,
+      "defense": 70,
+      "special_attack": 114,
+      "special_defense": 70,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "エレザード",
+      "HP": 62,
+      "attack": 55,
+      "defense": 52,
+      "special_attack": 109,
+      "special_defense": 94,
+      "speed": 109,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "モルペコ",
+      "HP": 58,
+      "attack": 95,
+      "defense": 58,
+      "special_attack": 70,
+      "special_defense": 58,
+      "speed": 97,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "トゲデマル",
+      "HP": 65,
+      "attack": 98,
+      "defense": 63,
+      "special_attack": 40,
+      "special_defense": 73,
+      "speed": 96,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "バチンウニ",
+      "HP": 48,
+      "attack": 101,
+      "defense": 95,
+      "special_attack": 91,
+      "special_defense": 85,
+      "speed": 15,
+      "max1": "attack",
+      "max2": ""
+    },
+    {
+      "name": "ロトム",
+      "HP": 50,
+      "attack": 50,
+      "defense": 77,
+      "special_attack": 95,
+      "special_defense": 77,
+      "speed": 91,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ロトム（フォームチェンジ）",
+      "HP": 50,
+      "attack": 65,
+      "defense": 107,
+      "special_attack": 105,
+      "special_defense": 107,
+      "speed": 86,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "パッチラゴン",
+      "HP": 90,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 80,
+      "special_defense": 70,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "パッチルドン",
+      "HP": 90,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 90,
+      "special_defense": 80,
+      "speed": 55,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

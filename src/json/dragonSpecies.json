@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "name": "オンバーン",
+      "HP": 85,
+      "attack": 70,
+      "defense": 80,
+      "special_attack": 97,
+      "special_defense": 80,
+      "speed": 123,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アップリュー",
+      "HP": 70,
+      "attack": 110,
+      "defense": 80,
+      "special_attack": 95,
+      "special_defense": 60,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "タルップル",
+      "HP": 110,
+      "attack": 85,
+      "defense": 80,
+      "special_attack": 100,
+      "special_defense": 80,
+      "speed": 30,
+      "max1": "HP",
+      "max2": ""
+    },
+    {
+      "name": "フライゴン",
+      "HP": 80,
+      "attack": 100,
+      "defense": 80,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "オノノクス",
+      "HP": 76,
+      "attack": 147,
+      "defense": 90,
+      "special_attack": 60,
+      "special_defense": 70,
+      "speed": 97,
+      "max1": "attack",
+      "max2": ""
+    },
+    {
+      "name": "ジジーロン",
+      "HP": 78,
+      "attack": 60,
+      "defense": 85,
+      "special_attack": 135,
+      "special_defense": 91,
+      "speed": 36,
+      "max1": "special_attack",
+      "max2": ""
+    },
+    {
+      "name": "バクガメス",
+      "HP": 60,
+      "attack": 78,
+      "defense": 135,
+      "special_attack": 91,
+      "special_defense": 85,
+      "speed": 36,
+      "max1": "defense",
+      "max2": ""
+    },
+    {
+      "name": "ジュラルドン",
+      "HP": 70,
+      "attack": 95,
+      "defense": 115,
+      "special_attack": 120,
+      "special_defense": 50,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "パッチラゴン",
+      "HP": 90,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 80,
+      "special_defense": 70,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ウオノラゴン",
+      "HP": 90,
+      "attack": 90,
+      "defense": 100,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "サザンドラ",
+      "HP": 92,
+      "attack": 105,
+      "defense": 90,
+      "special_attack": 125,
+      "special_defense": 90,
+      "speed": 98,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ヌメルゴン",
+      "HP": 90,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 110,
+      "special_defense": 150,
+      "speed": 80,
+      "max1": "special_defense",
+      "max2": ""
+    },
+    {
+      "name": "ジャラランガ",
+      "HP": 75,
+      "attack": 110,
+      "defense": 125,
+      "special_attack": 100,
+      "special_defense": 105,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドラパルト",
+      "HP": 88,
+      "attack": 120,
+      "defense": 75,
+      "special_attack": 100,
+      "special_defense": 75,
+      "speed": 142,
+      "max1": "speed",
+      "max2": ""
+    },
+    {
+      "name": "ムゲンダイナ",
+      "HP": 140,
+      "attack": 85,
+      "defense": 95,
+      "special_attack": 145,
+      "special_defense": 95,
+      "speed": 130,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

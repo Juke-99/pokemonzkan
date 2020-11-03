@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './css/type-table-layout.css';
+import Pokemon from './json';
 
 const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
 
@@ -66,7 +67,7 @@ class SpeciesContent extends Component {
 
         <tbody ref={e => this.tbodyRef = e}>
           {
-           this.props.species.data.map((content, i) => {
+           Pokemon(this.props.species).data.map((content, i) => {
               let isHPMax = content.max1 === "HP" || content.max2 === "HP";
               let isAttackMax = content.max1 === "attack" || content.max2 === "attack";
               let isDefenseMax = content.max1 === "defense" || content.max2 === "defense";
