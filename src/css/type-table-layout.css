@@ -3,6 +3,13 @@ body {
   color: white;
 }
 
+h2 {
+  width: 50%;
+  border-bottom: solid #fff 0.1em;
+  margin: 4px 13px;
+  padding: 5px;
+}
+
 table {
   border-collapse: collapse;
   margin: 2%;
@@ -25,14 +32,6 @@ tbody tr {
   background-color: black;
 }
 
-/* tbody tr:nth-child(1), tr:nth-child(2n+3) {
-  background-color: #ffccdd;
-}
-
-tr:nth-child(even) {
-  background-color: #ddffcc;
-} */
-
 thead tr {
   background-color: #99aaff;
 }
@@ -48,4 +47,10 @@ a {
 
 a:hover {
   color: #bde9ff;
+}
+
+.type-table {
+  margin-bottom: 120px;
+  margin-left: 30px;
+  margin-right: 30px;
 }

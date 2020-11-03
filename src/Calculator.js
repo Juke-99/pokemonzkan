@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import CheckBox from './Checkbox'
 import Critical from './json/criticalHit'
 import './css/calculator-layout.css'
