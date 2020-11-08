@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
+import SpeciesContent from './component/SpeciesContent';
 import './css/type-table-layout.css';
-import SpeciesContent from './SpeciesContent.js';
 
 class Species extends Component {
   render() {

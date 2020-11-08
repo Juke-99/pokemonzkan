@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import CheckBox from './Checkbox'
+import CheckBox from './component/Checkbox'
 import Critical from './json/criticalHit'
 import './css/calculator-layout.css'
 
@@ -30,6 +30,11 @@ function Calculator() {
     }, 700)
   }
 
+  const handleReset = event => {
+    resetButtonAnimation(event)
+    setCriticalHitRank(0)
+  }
+
   const criticalHitRankCalculator = rankSum => {
     if(rankSum === 1) {
       return "12.5%"
@@ -42,23 +47,18 @@ function Calculator() {
     }
   }
 
-  // const handleCriticalHitResetRank = event => {
-  //   resetButtonAnimation(event)
-  // }
-
   return (
     <div>
       <div>
         <p className="calc-title">急所ランク</p>
-        <CheckBox items={Critical.data} onChange={handleCriticalHitRank}></CheckBox>
-        {/* <button className="bubbly-button" onClick={handleCriticalHitResetRank}>リセット</button> */}
+        <CheckBox items={Critical.data} onChange={handleCriticalHitRank} onReset={handleReset}></CheckBox>
         <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p>
       </div>
 
       <div>
-        <p className="calc-title">ランク補正</p>
-        <CheckBox items={Critical.data} onChange={handleCriticalHitRank}></CheckBox>
-        <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p>
+        <p className="calc-title">技威力計算</p>
+        {/* <CheckBox items={Critical.data} onChange={handleCriticalHitRank}></CheckBox>
+        <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p> */}
       </div>
     </div>
   )

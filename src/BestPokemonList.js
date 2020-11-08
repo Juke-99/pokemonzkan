@@ -11,6 +11,32 @@ class BestPokemonList extends Component {
               <th>名前</th><th>タイプ</th>
             </tr>
             <tr>
+              <td>タチフサグマ</td><td>ノーマル、あく</td>
+            </tr>
+            <tr>
+              <td>ヤレユータン</td><td>ノーマル、エスパー</td>
+            </tr>
+            <tr>
+              <td>カビゴン</td><td>ノーマル</td>
+            </tr>
+            <tr>
+              <td>チラチーノ</td><td>ノーマル</td>
+            </tr>
+            <tr>
+              <td>バイウールー</td><td>ノーマル</td>
+            </tr>
+            <tr>
+              <td>ジジーロン</td><td>ノーマル、ドラゴン</td>
+            </tr>
+          </table>
+        </div>
+
+        <div>
+          <table>
+            <tr>
+              <th>名前</th><th>タイプ</th>
+            </tr>
+            <tr>
               <td>エルフーン</td><td>くさ、フェアリー</td>
             </tr>
             <tr>

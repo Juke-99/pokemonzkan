@@ -5,7 +5,6 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { Route, BrowserRouter as Router, Link, Switch } from 'react-router-dom';
 import Species from './Species';
-import LeafPokemon from './LeafPokemon';
 import BestPokemonList from './BestPokemonList';
 import Visualize from './Visualize';
 import Calculator from './Calculator';
@@ -16,10 +15,9 @@ const routing = (
       <Switch>
         <Route exact path="/" component={App} />
         <Route path="/species" component={Species} />
-        <Route path="/leaf-pokemon" component={LeafPokemon} />
         <Route path="/best-pokemon-list" component={BestPokemonList} />
-        {/* <Route path="/visualize" component={Visualize} /> */}
         <Route path="/calculator" component={Calculator}></Route>
+        <Route path="/visualize" component={Visualize} />
       </Switch>
 
       <hr />
@@ -32,12 +30,8 @@ const routing = (
         <Link to="/species">ポケモンのいろいろなデータ</Link>
       </p>
 
-      {/* <p>
-        <Link to="/visualize">グラフ見えるよ</Link>
-      </p> */}
-
       <p>
-        <Link to="/leaf-pokemon">くさ縛りでの対策</Link>
+        <Link to="/visualize">グラフ見えるよ</Link>
       </p>
 
       <p>

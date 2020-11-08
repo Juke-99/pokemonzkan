@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './css/type-table-layout.css';
-import Pokemon from './json';
+import '../css/type-table-layout.css';
+import Pokemon from '../json';
 
 const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
 
@@ -40,6 +40,7 @@ class SpeciesContent extends Component {
     specialDefenseCenterNum = 0;
     speedCenterNum = 0;
 
+    // それぞれの合計とポケモンのJSON形式のデータを配列へ
     Pokemon(this.props.species).data.map((content, i) => {
       HPArray[i] = content.HP;
       attackArray[i] = content.attack;
@@ -69,6 +70,7 @@ class SpeciesContent extends Component {
       .forEach(tr => this.tbodyRef.appendChild(tr));
   }
 
+  // 中央値の算出
   centerNum(HPArray, attackArray, defenseArray, specialAttackArray, specialDefenseArray, speedArray) {
     const length = Pokemon(this.props.species).data.length;
     const centerIntex = Math.floor(length / 2);
