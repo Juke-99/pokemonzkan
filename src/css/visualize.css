@@ -1,0 +1,8 @@
+h1 {
+    border-bottom: solid white 0.05em;
+    width: 50%;
+}
+
+.graph {
+    margin: 50px 10px;
+}

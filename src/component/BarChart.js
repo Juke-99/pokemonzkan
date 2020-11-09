@@ -28,39 +28,39 @@ function BarChart(props) {
     datasets: [
       {
         data: HPArray,
-        backgroundColor: '#1af',
+        backgroundColor: '#ddd',
         borderColor: '#fff',
         label: 'HP'
       },
       {
         data: attackArray,
-        backgroundColor: '#afa',
+        backgroundColor: '#d33',
         borderColor: '#fff',
-        label: 'attack'
+        label: 'こうげき'
       },
       {
         data: defenseArray,
-        backgroundColor: '#2ff',
+        backgroundColor: '#33d',
         borderColor: '#fff',
-        label: 'defense'
+        label: 'ぼうぎょ'
       },
       {
         data: specialAttackArray,
-        backgroundColor: '#f81',
+        backgroundColor: '#1d1',
         borderColor: '#fff',
-        label: 'specialAttack'
+        label: 'とくこう'
       },
       {
         data: specialDefenseArray,
-        backgroundColor: '#33f',
+        backgroundColor: '#d9a',
         borderColor: '#fff',
-        label: 'specialDefense'
+        label: 'とくぼう'
       },
       {
         data: speedArray,
-        backgroundColor: '#a9f',
+        backgroundColor: '#da1',
         borderColor: '#fff',
-        label: 'speed'
+        label: 'すばやさ'
       }
     ]
   }
@@ -69,7 +69,13 @@ function BarChart(props) {
     scales: {
       yAxes: [{
         ticks: {
-          beginAtZero: true
+          beginAtZero: true,
+          fontColor: "#fff"
+        }
+      }],
+      xAxes: [{
+        ticks: {
+          fontColor: "#fff"
         }
       }]
     }
