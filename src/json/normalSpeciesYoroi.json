@@ -1,0 +1,158 @@
+{
+    "data": [
+      {
+        "name": "ミミロップ",
+        "HP": 65,
+        "attack": 76,
+        "defense": 84,
+        "special_attack": 54,
+        "special_defense": 96,
+        "speed": 105,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ハピナス",
+        "HP": 255,
+        "attack": 10,
+        "defense": 10,
+        "special_attack": 75,
+        "special_defense": 255,
+        "speed": 55,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "プクリン",
+        "HP": 140,
+        "attack": 70,
+        "defense": 45,
+        "special_attack": 85,
+        "special_defense": 50,
+        "speed": 45,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ヤヤコマ",
+        "HP": 45,
+        "attack": 50,
+        "defense": 43,
+        "special_attack": 40,
+        "special_defense": 38,
+        "speed": 62,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ノコッチ",
+        "HP": 100,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 45,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "バッフロン",
+        "HP": 95,
+        "attack": 110,
+        "defense": 95,
+        "special_attack": 40,
+        "special_defense": 95,
+        "speed": 50,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ベロベルト",
+        "HP": 110,
+        "attack": 85,
+        "defense": 95,
+        "special_attack": 80,
+        "special_defense": 95,
+        "speed": 50,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ムーランド",
+        "HP": 85,
+        "attack": 110,
+        "defense": 90,
+        "special_attack": 45,
+        "special_defense": 90,
+        "speed": 80,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ケンタロス",
+        "HP": 75,
+        "attack": 100,
+        "defense": 95,
+        "special_attack": 40,
+        "special_defense": 70,
+        "speed": 110,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ミルタンク",
+        "HP": 95,
+        "attack": 80,
+        "defense": 105,
+        "special_attack": 40,
+        "special_defense": 70,
+        "speed": 100,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ルリリ",
+        "HP": 50,
+        "attack": 20,
+        "defense": 40,
+        "special_attack": 20,
+        "special_defense": 40,
+        "speed": 20,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "バクオング",
+        "HP": 104,
+        "attack": 91,
+        "defense": 63,
+        "special_attack": 91,
+        "special_defense": 73,
+        "speed": 68,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ガルーラ",
+        "HP": 105,
+        "attack": 95,
+        "defense": 80,
+        "special_attack": 40,
+        "special_defense": 80,
+        "speed": 90,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ポリゴンＺ",
+        "HP": 85,
+        "attack": 80,
+        "defense": 70,
+        "special_attack": 135,
+        "special_defense": 75,
+        "speed": 90,
+        "max1": "",
+        "max2": ""
+      }
+    ]
+  }

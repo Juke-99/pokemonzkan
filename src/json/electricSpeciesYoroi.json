@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "name": "レントラー",
+        "HP": 80,
+        "attack": 120,
+        "defense": 79,
+        "special_attack": 95,
+        "special_defense": 79,
+        "speed": 70,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "エモンガ",
+        "HP": 55,
+        "attack": 75,
+        "defense": 60,
+        "special_attack": 75,
+        "special_defense": 60,
+        "speed": 103,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "デデンネ",
+        "HP": 67,
+        "attack": 58,
+        "defense": 57,
+        "special_attack": 81,
+        "special_defense": 67,
+        "speed": 101,
+        "max1": "",
+        "max2": ""
+      },
+      {
+        "name": "ジバコイル",
+        "HP": 70,
+        "attack": 70,
+        "defense": 115,
+        "special_attack": 130,
+        "special_defense": 90,
+        "speed": 60,
+        "max1": "",
+        "max2": ""
+      }
+    ]
+  }
