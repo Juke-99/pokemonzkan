@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "name": "ウーラオス",
+      "HP": 100,
+      "attack": 130,
+      "defense": 100,
+      "special_attack": 63,
+      "special_defense": 60,
+      "speed": 97,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ヘラクロス",
+      "HP": 80,
+      "attack": 125,
+      "defense": 75,
+      "special_attack": 40,
+      "special_defense": 95,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ニョロボン",
+      "HP": 90,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 70,
+      "special_defense": 90,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "コジョンド",
+      "HP": 65,
+      "attack": 125,
+      "defense": 60,
+      "special_attack": 95,
+      "special_defense": 60,
+      "speed": 105,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

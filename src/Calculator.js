@@ -5,14 +5,12 @@ import './css/calculator-layout.css'
 
 function Calculator() {
   const [criticalHitRank, setCriticalHitRank] = useState(0)
-  // const [criticalHitCheckboxState, setCriticalHitCheckboxState] = useState([])
 
   const handleCriticalHitRank = event => {
     const target = event.target
 
     if(target.checked) {
       setCriticalHitRank(criticalHitRank + parseInt(target.value))
-      // criticalHitCheckboxState.push({id: target.id, checked: target.checked})
     } else {
       setCriticalHitRank(criticalHitRank - parseInt(target.value))
     }
@@ -50,15 +48,13 @@ function Calculator() {
   return (
     <div>
       <div>
-        <p className="calc-title">急所ランク</p>
+        <p className="calc-title">急所ランク</p>
         <CheckBox items={Critical.data} onChange={handleCriticalHitRank} onReset={handleReset}></CheckBox>
         <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p>
       </div>
 
       <div>
-        <p className="calc-title">技威力計算</p>
-        {/* <CheckBox items={Critical.data} onChange={handleCriticalHitRank}></CheckBox>
-        <p className="calc-result">{criticalHitRankCalculator(criticalHitRank)}</p> */}
+        <p className="calc-title">技威力計算</p>
       </div>
     </div>
   )

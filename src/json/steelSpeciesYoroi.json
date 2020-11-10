@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "name": "ジバコイル",
+      "HP": 70,
+      "attack": 70,
+      "defense": 115,
+      "special_attack": 130,
+      "special_defense": 90,
+      "speed": 60,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ハッサム",
+      "HP": 70,
+      "attack": 130,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "エアームド",
+      "HP": 65,
+      "attack": 80,
+      "defense": 140,
+      "special_attack": 40,
+      "special_defense": 70,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "クレッフィ",
+      "HP": 57,
+      "attack": 80,
+      "defense": 91,
+      "special_attack": 80,
+      "special_defense": 87,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アローラサンドパン",
+      "HP": 75,
+      "attack": 100,
+      "defense": 120,
+      "special_attack": 25,
+      "special_defense": 65,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

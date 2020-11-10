@@ -8,6 +8,7 @@ import Species from './Species';
 import BestPokemonList from './BestPokemonList';
 import Visualize from './Visualize';
 import Calculator from './Calculator';
+import AllPokemonVisualize from './AllPokemonVisualize';
 
 const routing = (
   <Router>
@@ -18,6 +19,7 @@ const routing = (
         <Route path="/best-pokemon-list" component={BestPokemonList} />
         <Route path="/calculator" component={Calculator}></Route>
         <Route path="/visualize" component={Visualize} />
+        <Route path="/all-visualize" component={AllPokemonVisualize} />
       </Switch>
 
       <hr />
@@ -31,7 +33,11 @@ const routing = (
       </p>
 
       <p>
-        <Link to="/visualize">グラフ見えるよ</Link>
+        <Link to="/visualize">種族値グラフ（ガラル図鑑のみ）</Link>
+      </p>
+
+      <p>
+        <Link to="/all-visualize">種族値グラフ（ガラル図鑑のみ + ヨロイ島図鑑 + カンムリ雪原図鑑）</Link>
       </p>
 
       <p>

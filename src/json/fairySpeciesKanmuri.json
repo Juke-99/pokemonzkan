@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "name": "メレシー",
+      "HP": 50,
+      "attack": 50,
+      "defense": 150,
+      "special_attack": 50,
+      "special_defense": 150,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

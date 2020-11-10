@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "クリムガン",
+      "HP": 77,
+      "attack": 120,
+      "defense": 90,
+      "special_attack": 60,
+      "special_defense": 90,
+      "speed": 48,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "キングドラ",
+      "HP": 75,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 95,
+      "special_defense": 95,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アローラナッシー",
+      "HP": 95,
+      "attack": 105,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 75,
+      "speed": 45,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

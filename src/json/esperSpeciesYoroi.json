@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "name": "ヤドキング",
+      "HP": 95,
+      "attack": 75,
+      "defense": 80,
+      "special_attack": 100,
+      "special_defense": 110,
+      "speed": 30,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "フーディン",
+      "HP": 55,
+      "attack": 50,
+      "defense": 45,
+      "special_attack": 135,
+      "special_defense": 95,
+      "speed": 120,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "スターミー",
+      "HP": 60,
+      "attack": 75,
+      "defense": 85,
+      "special_attack": 100,
+      "special_defense": 85,
+      "speed": 115,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ナッシー",
+      "HP": 95,
+      "attack": 95,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 75,
+      "speed": 55,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

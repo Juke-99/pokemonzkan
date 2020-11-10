@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "ニドクイン",
+      "HP": 90,
+      "attack": 92,
+      "defense": 87,
+      "special_attack": 75,
+      "special_defense": 85,
+      "speed": 76,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ニドキング",
+      "HP": 81,
+      "attack": 102,
+      "defense": 77,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガブリアス",
+      "HP": 108,
+      "attack": 130,
+      "defense": 95,
+      "special_attack": 80,
+      "special_defense": 85,
+      "speed": 102,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

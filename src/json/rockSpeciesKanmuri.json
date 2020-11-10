@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "name": "ガチゴラス",
+      "HP": 82,
+      "attack": 121,
+      "defense": 119,
+      "special_attack": 69,
+      "special_defense": 59,
+      "speed": 71,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アマルルガ",
+      "HP": 123,
+      "attack": 77,
+      "defense": 72,
+      "special_attack": 99,
+      "special_defense": 92,
+      "speed": 58,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "オムスター",
+      "HP": 70,
+      "attack": 60,
+      "defense": 125,
+      "special_attack": 115,
+      "special_defense": 70,
+      "speed": 55,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "カブトプス",
+      "HP": 60,
+      "attack": 115,
+      "defense": 105,
+      "special_attack": 65,
+      "special_defense": 70,
+      "speed": 80,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アバゴーラ",
+      "HP": 74,
+      "attack": 108,
+      "defense": 133,
+      "special_attack": 83,
+      "special_defense": 65,
+      "speed": 32,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "プテラ",
+      "HP": 80,
+      "attack": 105,
+      "defense": 65,
+      "special_attack": 60,
+      "special_defense": 75,
+      "speed": 130,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "メレシー",
+      "HP": 50,
+      "attack": 50,
+      "defense": 150,
+      "special_attack": 50,
+      "special_defense": 150,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アーケオス",
+      "HP": 75,
+      "attack": 140,
+      "defense": 65,
+      "special_attack": 112,
+      "special_defense": 65,
+      "speed": 110,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ユレイドル",
+      "HP": 86,
+      "attack": 81,
+      "defense": 97,
+      "special_attack": 81,
+      "special_defense": 107,
+      "speed": 43,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アーマルド",
+      "HP": 75,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 45,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ジーランス",
+      "HP": 100,
+      "attack": 90,
+      "defense": 130,
+      "special_attack": 45,
+      "special_defense": 65,
+      "speed": 55,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ボスゴドラ",
+      "HP": 70,
+      "attack": 110,
+      "defense": 180,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "レジロック",
+      "HP": 80,
+      "attack": 100,
+      "defense": 200,
+      "special_attack": 50,
+      "special_defense": 100,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "テラキオン",
+      "HP": 91,
+      "attack": 129,
+      "defense": 90,
+      "special_attack": 72,
+      "special_defense": 90,
+      "speed": 108,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

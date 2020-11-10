@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "name": "プクリン",
+      "HP": 140,
+      "attack": 70,
+      "defense": 45,
+      "special_attack": 85,
+      "special_defense": 50,
+      "speed": 45,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "クレッフィ",
+      "HP": 57,
+      "attack": 80,
+      "defense": 91,
+      "special_attack": 80,
+      "special_defense": 87,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "キュワワー",
+      "HP": 51,
+      "attack": 52,
+      "defense": 90,
+      "special_attack": 82,
+      "special_defense": 110,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "デデンネ",
+      "HP": 67,
+      "attack": 58,
+      "defense": 57,
+      "special_attack": 81,
+      "special_defense": 67,
+      "speed": 101,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "マリルリ",
+      "HP": 100,
+      "attack": 50,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 80,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

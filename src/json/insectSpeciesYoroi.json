@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "name": "ペンドラー",
+      "HP": 60,
+      "attack": 100,
+      "defense": 89,
+      "special_attack": 55,
+      "special_defense": 69,
+      "speed": 112,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ストライク",
+      "HP": 70,
+      "attack": 110,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 105,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ハッサム",
+      "HP": 70,
+      "attack": 130,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "カイロス",
+      "HP": 65,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 70,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ヘラクロス",
+      "HP": 80,
+      "attack": 125,
+      "defense": 75,
+      "special_attack": 40,
+      "special_defense": 95,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ウルガモス",
+      "HP": 85,
+      "attack": 60,
+      "defense": 65,
+      "special_attack": 135,
+      "special_defense": 105,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

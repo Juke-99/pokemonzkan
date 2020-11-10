@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "name": "タブンネ",
+      "HP": 103,
+      "attack": 60,
+      "defense": 86,
+      "special_attack": 60,
+      "special_defense": 86,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "チルット",
+      "HP": 45,
+      "attack": 40,
+      "defense": 60,
+      "special_attack": 40,
+      "special_defense": 75,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

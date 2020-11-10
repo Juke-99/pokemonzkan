@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "エレキブル",
+      "HP": 75,
+      "attack": 123,
+      "defense": 67,
+      "special_attack": 95,
+      "special_defense": 85,
+      "speed": 95,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "レジエレキ",
+      "HP": 80,
+      "attack": 100,
+      "defense": 50,
+      "special_attack": 100,
+      "special_defense": 50,
+      "speed": 200,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "サンダー",
+      "HP": 90,
+      "attack": 90,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 90,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

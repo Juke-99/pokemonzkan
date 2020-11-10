@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "ミカルゲ",
+      "HP": 50,
+      "attack": 92,
+      "defense": 108,
+      "special_attack": 92,
+      "special_defense": 108,
+      "speed": 35,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アブソル",
+      "HP": 65,
+      "attack": 130,
+      "defense": 60,
+      "special_attack": 75,
+      "special_defense": 60,
+      "speed": 75,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガラルファイヤー",
+      "HP": 90,
+      "attack": 85,
+      "defense": 90,
+      "special_attack": 100,
+      "special_defense": 125,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

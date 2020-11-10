@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "name": "アーマルド",
+      "HP": 75,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 45,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

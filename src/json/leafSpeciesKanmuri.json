@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "ユレイドル",
+      "HP": 86,
+      "attack": 81,
+      "defense": 97,
+      "special_attack": 81,
+      "special_defense": 107,
+      "speed": 43,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ビリジオン",
+      "HP": 91,
+      "attack": 90,
+      "defense": 72,
+      "special_attack": 90,
+      "special_defense": 129,
+      "speed": 108,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "バドレックス",
+      "HP": 100,
+      "attack": 80,
+      "defense": 80,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 80,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

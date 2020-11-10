@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "name": "ファイアロー",
+      "HP": 78,
+      "attack": 81,
+      "defense": 71,
+      "special_attack": 74,
+      "special_defense": 69,
+      "speed": 126,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "エモンガ",
+      "HP": 55,
+      "attack": 75,
+      "defense": 60,
+      "special_attack": 75,
+      "special_defense": 60,
+      "speed": 103,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ストライク",
+      "HP": 70,
+      "attack": 110,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 105,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "エアームド",
+      "HP": 65,
+      "attack": 80,
+      "defense": 140,
+      "special_attack": 40,
+      "special_defense": 70,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

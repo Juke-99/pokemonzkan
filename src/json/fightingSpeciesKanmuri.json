@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "name": "ガラルサンダー",
+      "HP": 90,
+      "attack": 125,
+      "defense": 90,
+      "special_attack": 85,
+      "special_defense": 90,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "コバルオン",
+      "HP": 91,
+      "attack": 90,
+      "defense": 129,
+      "special_attack": 90,
+      "special_defense": 72,
+      "speed": 108,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "テラキオン",
+      "HP": 91,
+      "attack": 129,
+      "defense": 90,
+      "special_attack": 72,
+      "special_defense": 90,
+      "speed": 108,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ビリジオン",
+      "HP": 91,
+      "attack": 90,
+      "defense": 72,
+      "special_attack": 90,
+      "special_defense": 129,
+      "speed": 108,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

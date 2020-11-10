@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "name": "ブーバーン",
+      "HP": 75,
+      "attack": 95,
+      "defense": 67,
+      "special_attack": 125,
+      "special_defense": 95,
+      "speed": 83,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ファイヤー",
+      "HP": 90,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 125,
+      "special_defense": 85,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

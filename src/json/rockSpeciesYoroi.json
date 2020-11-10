@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "ルガルガン(まひるのすがた)",
+      "HP": 75,
+      "attack": 115,
+      "defense": 65,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 112,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ルガルガン(まよなかのすがた)",
+      "HP": 85,
+      "attack": 115,
+      "defense": 75,
+      "special_attack": 55,
+      "special_defense": 75,
+      "speed": 82,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ルガルガン(たそがれのすがた)",
+      "HP": 75,
+      "attack": 117,
+      "defense": 65,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 110,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

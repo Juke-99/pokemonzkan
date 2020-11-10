@@ -4,7 +4,7 @@ import fireSpecies from './fireSpecies';
 import ghostSpecies from './ghostSpecies';
 import esperSpecies from './esperSpecies';
 import darkSpecies from './darkSpecies';
-import fairySpecies from './fairySpeacies';
+import fairySpecies from './fairySpecies';
 import iceSpecies from './iceSpecies';
 import insectSpecies from './insectSpecies';
 import normalSpecies from './normalSpecies';

@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "name": "チルタリス",
+      "HP": 75,
+      "attack": 70,
+      "defense": 90,
+      "special_attack": 70,
+      "special_defense": 105,
+      "speed": 80,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ボーマンダ",
+      "HP": 95,
+      "attack": 135,
+      "defense": 80,
+      "special_attack": 110,
+      "special_defense": 80,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "プテラ",
+      "HP": 80,
+      "attack": 105,
+      "defense": 65,
+      "special_attack": 60,
+      "special_defense": 75,
+      "speed": 130,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "クロバット",
+      "HP": 85,
+      "attack": 90,
+      "defense": 80,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 130,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アーケオス",
+      "HP": 75,
+      "attack": 140,
+      "defense": 65,
+      "special_attack": 112,
+      "special_defense": 65,
+      "speed": 110,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "カイリュー",
+      "HP": 91,
+      "attack": 134,
+      "defense": 95,
+      "special_attack": 100,
+      "special_defense": 100,
+      "speed": 80,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガラルフリーザー",
+      "HP": 90,
+      "attack": 85,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 100,
+      "speed": 95,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "フリーザー",
+      "HP": 90,
+      "attack": 85,
+      "defense": 100,
+      "special_attack": 95,
+      "special_defense": 125,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガラルサンダー",
+      "HP": 90,
+      "attack": 125,
+      "defense": 90,
+      "special_attack": 85,
+      "special_defense": 90,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "サンダー",
+      "HP": 90,
+      "attack": 90,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 90,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガラルファイヤー",
+      "HP": 90,
+      "attack": 85,
+      "defense": 90,
+      "special_attack": 100,
+      "special_defense": 125,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ファイヤー",
+      "HP": 90,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 125,
+      "special_defense": 85,
+      "speed": 90,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

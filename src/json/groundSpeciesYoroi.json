@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "name": "シロデスナ",
+      "HP": 85,
+      "attack": 75,
+      "defense": 110,
+      "special_attack": 100,
+      "special_defense": 75,
+      "speed": 35,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "サンドパン",
+      "HP": 75,
+      "attack": 100,
+      "defense": 110,
+      "special_attack": 45,
+      "special_defense": 55,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ガラガラ",
+      "HP": 60,
+      "attack": 80,
+      "defense": 119,
+      "special_attack": 50,
+      "special_defense": 80,
+      "speed": 45,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ワルビアル",
+      "HP": 95,
+      "attack": 117,
+      "defense": 80,
+      "special_attack": 65,
+      "special_defense": 70,
+      "speed": 92,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

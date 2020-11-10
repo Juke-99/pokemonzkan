@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "name": "ルージュラ",
+      "HP": 65,
+      "attack": 50,
+      "defense": 35,
+      "special_attack": 115,
+      "special_defense": 95,
+      "speed": 95,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "フリージオ",
+      "HP": 80,
+      "attack": 50,
+      "defense": 50,
+      "special_attack": 95,
+      "special_defense": 135,
+      "speed": 105,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "アマルルガ",
+      "HP": 123,
+      "attack": 77,
+      "defense": 72,
+      "special_attack": 99,
+      "special_defense": 92,
+      "speed": 58,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "トドゼルガ",
+      "HP": 110,
+      "attack": 80,
+      "defense": 90,
+      "special_attack": 95,
+      "special_defense": 96,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "レジアイス",
+      "HP": 80,
+      "attack": 50,
+      "defense": 100,
+      "special_attack": 100,
+      "special_defense": 200,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "フリーザー",
+      "HP": 90,
+      "attack": 85,
+      "defense": 100,
+      "special_attack": 95,
+      "special_defense": 125,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ブリザポス",
+      "HP": 100,
+      "attack": 145,
+      "defense": 130,
+      "special_attack": 65,
+      "special_defense": 110,
+      "speed": 30,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "バドレックス(はくばじょうのすがた)",
+      "HP": 100,
+      "attack": 165,
+      "defense": 150,
+      "special_attack": 85,
+      "special_defense": 130,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

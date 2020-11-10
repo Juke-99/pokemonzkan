@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './css/visualize.css'
 import PokeVisualize from './component/PokeVisualize';
 
-function Visualize() {
+function AllPokemonVisualize() {
   const [showNav, setShowNav] = useState(false)
 
   const showNavigationMenu = () => {
@@ -47,96 +47,96 @@ function Visualize() {
       <div onClick={closeNavigationMenu}>
         <div id='normal' className="graph">
           <h1>ノーマルタイプ</h1>
-          <PokeVisualize species={'normal'}></PokeVisualize>
+          <PokeVisualize species={'normal'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='fire' className="graph">
           <h1>ほのおタイプ</h1>
-          <PokeVisualize species={'fire'}></PokeVisualize>
+          <PokeVisualize species={'fire'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='water' className="graph">
           <h1>みずタイプ</h1>
-          <PokeVisualize species={'water'}></PokeVisualize>
+          <PokeVisualize species={'water'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='leaf' className="graph">
           <h1>くさタイプ</h1>
-          <PokeVisualize species={'leaf'}></PokeVisualize>
+          <PokeVisualize species={'leaf'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='electric' className="graph">
           <h1>でんきタイプ</h1>
-          <PokeVisualize species={'electric'}></PokeVisualize>
+          <PokeVisualize species={'electric'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='ice' className="graph">
           <h1>こおりタイプ</h1>
-          <PokeVisualize species={'ice'}></PokeVisualize>
+          <PokeVisualize species={'ice'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='fighting' className="graph">
           <h1>かくとうタイプ</h1>
-          <PokeVisualize species={'fighting'}></PokeVisualize>
+          <PokeVisualize species={'fighting'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='poison' className="graph">
           <h1>どくタイプ</h1>
-          <PokeVisualize species={'poison'}></PokeVisualize>
+          <PokeVisualize species={'poison'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='ground' className="graph">
           <h1>じめんタイプ</h1>
-          <PokeVisualize species={'ground'}></PokeVisualize>
+          <PokeVisualize species={'ground'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='flying' className="graph">
           <h1>ひこうタイプ</h1>
-          <PokeVisualize species={'flying'}></PokeVisualize>
+          <PokeVisualize species={'flying'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='esper' className="graph">
           <h1>エスパータイプ</h1>
-          <PokeVisualize species={'esper'}></PokeVisualize>
+          <PokeVisualize species={'esper'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='insect' className="graph">
           <h1>むしタイプ</h1>
-          <PokeVisualize species={'insect'}></PokeVisualize>
+          <PokeVisualize species={'insect'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='rock' className="graph">
           <h1>いわタイプ</h1>
-          <PokeVisualize species={'rock'}></PokeVisualize>
+          <PokeVisualize species={'rock'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='ghost' className="graph">
           <h1>ゴーストタイプ</h1>
-          <PokeVisualize species={'ghost'}></PokeVisualize>
+          <PokeVisualize species={'ghost'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='dragon' className="graph">
           <h1>ドラゴンタイプ</h1>
-          <PokeVisualize species={'dragon'}></PokeVisualize>
+          <PokeVisualize species={'dragon'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='dark' className="graph">
           <h1>あくタイプ</h1>
-          <PokeVisualize species={'dark'}></PokeVisualize>
+          <PokeVisualize species={'dark'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='steel' className="graph">
           <h1>はがねタイプ</h1>
-          <PokeVisualize species={'steel'}></PokeVisualize>
+          <PokeVisualize species={'steel'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
 
         <div id='fairy' className="graph">
           <h1>フェアリータイプ</h1>
-          <PokeVisualize species={'fairy'}></PokeVisualize>
+          <PokeVisualize species={'fairy'} yoroi={'y'} kanmuri={'y'}></PokeVisualize>
         </div>
       </div>
     </div>
   )
 }
 
-export default Visualize;
+export default AllPokemonVisualize;

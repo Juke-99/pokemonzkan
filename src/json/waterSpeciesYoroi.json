@@ -1,147 +1,147 @@
 {
-    "data": [
-      {
-        "name": "ヤドキング",
-        "HP": 95,
-        "attack": 75,
-        "defense": 80,
-        "special_attack": 100,
-        "special_defense": 110,
-        "speed": 30,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "ドククラゲ",
-        "HP": 80,
-        "attack": 70,
-        "defense": 65,
-        "special_attack": 80,
-        "special_defense": 120,
-        "speed": 100,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "カメックス",
-        "HP": 79,
-        "attack": 83,
-        "defense": 100,
-        "special_attack": 85,
-        "special_defense": 105,
-        "speed": 78,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "スターミー",
-        "HP": 60,
-        "attack": 75,
-        "defense": 85,
-        "special_attack": 100,
-        "special_defense": 85,
-        "speed": 115,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "ウーラオス(れんげきの型)",
-        "HP": 100,
-        "attack": 130,
-        "defense": 100,
-        "special_attack": 63,
-        "special_defense": 60,
-        "speed": 97,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "サメハダー",
-        "HP": 70,
-        "attack": 120,
-        "defense": 40,
-        "special_attack": 95,
-        "special_defense": 40,
-        "speed": 95,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "マリルリ",
-        "HP": 100,
-        "attack": 50,
-        "defense": 80,
-        "special_attack": 60,
-        "special_defense": 80,
-        "speed": 50,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "ニョロボン",
-        "HP": 90,
-        "attack": 95,
-        "defense": 95,
-        "special_attack": 70,
-        "special_defense": 90,
-        "speed": 70,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "ニョロトノ",
-        "HP": 90,
-        "attack": 75,
-        "defense": 75,
-        "special_attack": 90,
-        "special_defense": 100,
-        "speed": 70,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "ゴルダック",
-        "HP": 80,
-        "attack": 82,
-        "defense": 78,
-        "special_attack": 95,
-        "special_defense": 80,
-        "speed": 85,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "クズモー",
-        "HP": 50,
-        "attack": 60,
-        "defense": 60,
-        "special_attack": 60,
-        "special_defense": 60,
-        "speed": 30,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "ブロスター",
-        "HP": 71,
-        "attack": 73,
-        "defense": 88,
-        "special_attack": 120,
-        "special_defense": 89,
-        "speed": 59,
-        "max1": "",
-        "max2": ""
-      },
-      {
-        "name": "キングドラ",
-        "HP": 75,
-        "attack": 95,
-        "defense": 95,
-        "special_attack": 95,
-        "special_defense": 95,
-        "speed": 85,
-        "max1": "",
-        "max2": ""
-      }
-    ]
-  }
+  "data": [
+    {
+      "name": "ヤドキング",
+      "HP": 95,
+      "attack": 75,
+      "defense": 80,
+      "special_attack": 100,
+      "special_defense": 110,
+      "speed": 30,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ドククラゲ",
+      "HP": 80,
+      "attack": 70,
+      "defense": 65,
+      "special_attack": 80,
+      "special_defense": 120,
+      "speed": 100,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "カメックス",
+      "HP": 79,
+      "attack": 83,
+      "defense": 100,
+      "special_attack": 85,
+      "special_defense": 105,
+      "speed": 78,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "スターミー",
+      "HP": 60,
+      "attack": 75,
+      "defense": 85,
+      "special_attack": 100,
+      "special_defense": 85,
+      "speed": 115,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ウーラオス",
+      "HP": 100,
+      "attack": 130,
+      "defense": 100,
+      "special_attack": 63,
+      "special_defense": 60,
+      "speed": 97,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "サメハダー",
+      "HP": 70,
+      "attack": 120,
+      "defense": 40,
+      "special_attack": 95,
+      "special_defense": 40,
+      "speed": 95,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "マリルリ",
+      "HP": 100,
+      "attack": 50,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 80,
+      "speed": 50,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ニョロボン",
+      "HP": 90,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 70,
+      "special_defense": 90,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ニョロトノ",
+      "HP": 90,
+      "attack": 75,
+      "defense": 75,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 70,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ゴルダック",
+      "HP": 80,
+      "attack": 82,
+      "defense": 78,
+      "special_attack": 95,
+      "special_defense": 80,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "クズモー",
+      "HP": 50,
+      "attack": 60,
+      "defense": 60,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 30,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ブロスター",
+      "HP": 71,
+      "attack": 73,
+      "defense": 88,
+      "special_attack": 120,
+      "special_defense": 89,
+      "speed": 59,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "キングドラ",
+      "HP": 75,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 95,
+      "special_defense": 95,
+      "speed": 85,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

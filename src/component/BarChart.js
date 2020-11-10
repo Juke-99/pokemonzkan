@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import { Bar } from 'react-chartjs-2'
 import Pokemon from '../json'
+import YoroiPokemon from '../json/yoroiIndex'
+import KanmuriPokemon from '../json/kanmuriIndex'
 
 function BarChart(props) {
   const [nameArray, setNameArray] = useState([])
@@ -22,6 +24,40 @@ function BarChart(props) {
     specialDefenseArray[i] = content.special_defense
     speedArray[i] = content.speed
   })
+
+  if(props.yoroi === 'y') {
+    YoroiPokemon(props.species).data.map((content, i) => {
+      const gararuPokemonLength = Pokemon(props.species).data.length
+
+      // setNameArray(nameArray.push(content.name))
+      // setNameArray(nameArray => [...nameArray, content.name])
+      nameArray[i + gararuPokemonLength] = content.name
+      HPArray[i + gararuPokemonLength] = content.HP
+      attackArray[i + gararuPokemonLength] = content.attack
+      defenseArray[i + gararuPokemonLength] = content.defense
+      specialAttackArray[i + gararuPokemonLength] = content.special_attack
+      specialDefenseArray[i + gararuPokemonLength] = content.special_defense
+      speedArray[i + gararuPokemonLength] = content.speed
+    })
+  }
+
+  if(props.kanmuri === 'y') {
+    KanmuriPokemon(props.species).data.map((content, i) => {
+      const gararuPokemonLength = Pokemon(props.species).data.length
+      const yoroiPokemonLength = YoroiPokemon(props.species).data.length
+      const sumLength = gararuPokemonLength + yoroiPokemonLength
+
+      // setNameArray(nameArray.push(content.name))
+      // setNameArray(nameArray => [...nameArray, content.name])
+      nameArray[i + sumLength] = content.name
+      HPArray[i + sumLength] = content.HP
+      attackArray[i + sumLength] = content.attack
+      defenseArray[i + sumLength] = content.defense
+      specialAttackArray[i + sumLength] = content.special_attack
+      specialDefenseArray[i + sumLength] = content.special_defense
+      speedArray[i + sumLength] = content.speed
+    })
+  }
 
   const chartData = {
     labels: nameArray,

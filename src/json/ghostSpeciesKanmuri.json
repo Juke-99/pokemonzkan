@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "レイスポス",
+      "HP": 100,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 145,
+      "special_defense": 80,
+      "speed": 130,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "バドレックス(こくばじょうのすがた)",
+      "HP": 100,
+      "attack": 85,
+      "defense": 80,
+      "special_attack": 165,
+      "special_defense": 100,
+      "speed": 150,
+      "max1": "",
+      "max2": ""
+    },
+    {
+      "name": "ミカルゲ",
+      "HP": 50,
+      "attack": 92,
+      "defense": 108,
+      "special_attack": 92,
+      "special_defense": 108,
+      "speed": 35,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

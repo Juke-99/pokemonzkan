@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "name": "アローラサンドパン",
+      "HP": 75,
+      "attack": 100,
+      "defense": 120,
+      "special_attack": 25,
+      "special_defense": 65,
+      "speed": 65,
+      "max1": "",
+      "max2": ""
+    }
+  ]
+}

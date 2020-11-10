@@ -3,20 +3,19 @@ import fireSpecies from './fireSpeciesYoroi'
 import waterSpecies from './waterSpeciesYoroi'
 import electricSpecies from './electricSpeciesYoroi'
 import leafSpecies from './leafSpeciesYoroi'
-
-import ghostSpecies from './ghostSpecies'
-import esperSpecies from './esperSpecies'
-import darkSpecies from './darkSpecies'
-import fairySpecies from './fairySpeacies'
-import iceSpecies from './iceSpecies'
-import insectSpecies from './insectSpecies'
-import fightingSpecies from './fightingSpecies'
-import poisonSpecies from './poisonSpecies'
-import groundSpecies from './groundSpecies'
-import flyingSpecies from './flyingSpecies'
-import rockSpecies from './rockSpecies'
-import dragonSpecies from './dragonSpecies'
-import steelSpecies from './steelSpecies'
+import iceSpecies from './iceSpeciesYoroi'
+import fightingSpecies from './fightingSpeciesYoroi'
+import poisonSpecies from './poisonSpeciesYoroi'
+import groundSpecies from './groundSpeciesYoroi'
+import flyingSpecies from './flyingSpeciesYoroi'
+import esperSpecies from './esperSpeciesYoroi'
+import insectSpecies from './insectSpeciesYoroi'
+import rockSpecies from './rockSpeciesYoroi'
+import ghostSpecies from './ghostSpeciesYoroi'
+import dragonSpecies from './dragonSpeciesYoroi'
+import darkSpecies from './darkSpeciesYoroi'
+import steelSpecies from './steelSpeciesYoroi'
+import fairySpecies from './fairySpeciesYoroi'
 
 function YoroiPokemon(type) {
   switch(type) {
@@ -30,18 +29,8 @@ function YoroiPokemon(type) {
       return electricSpecies
     case "leaf":
       return leafSpecies
-    case "ghost":
-      return ghostSpecies
-    case "esper":
-      return esperSpecies
-    case "dark":
-      return darkSpecies
-    case "fairy":
-      return fairySpecies
     case "ice":
       return iceSpecies
-    case "insect":
-      return insectSpecies
     case "fighting":
       return fightingSpecies
     case "poison":
@@ -50,12 +39,22 @@ function YoroiPokemon(type) {
       return groundSpecies
     case "flying":
       return flyingSpecies
+    case "esper":
+      return esperSpecies
+    case "insect":
+      return insectSpecies
     case "rock":
       return rockSpecies
+    case "ghost":
+      return ghostSpecies
     case "dragon":
       return dragonSpecies
+    case "dark":
+      return darkSpecies
     case "steel":
       return steelSpecies
+    case "fairy":
+      return fairySpecies
   }
 }
 
